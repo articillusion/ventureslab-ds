@@ -1202,6 +1202,16 @@
         "lineHeight": "{lineheights.4}"
       },
       "type": "typography"
+    },
+    "Test": {
+      "value": {
+        "fontFamily": "{fontFamilies.Inter}",
+        "fontWeight": "{semibold}",
+        "fontSize": "{xs}",
+        "letterSpacing": "{tracking-lesstight}",
+        "lineHeight": "{lineheights.4}"
+      },
+      "type": "typography"
     }
   }
 }
