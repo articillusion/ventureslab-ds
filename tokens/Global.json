@@ -1819,6 +1819,6 @@
   },
   "button-disabled": {
     "value": "50%",
-    "type": "opacity"
+    "type": "opacity-test"
   }
 }
