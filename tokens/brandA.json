@@ -257,19 +257,19 @@
       "type": "color"
     },
     "700": {
-      "value": "#20b74b",
+      "value": "#1f9a46",
       "type": "color"
     },
     "800": {
-      "value": "#1a933c",
+      "value": "#166833",
       "type": "color"
     },
     "900": {
-      "value": "#26623f",
+      "value": "#0c4622",
       "type": "color"
     },
     "950": {
-      "value": "#213027",
+      "value": "#052913",
       "type": "color"
     }
   },
