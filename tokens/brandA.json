@@ -595,6 +595,28 @@
           "type": "color"
         }
       },
+      "default-icons": {
+        "default": {
+          "value": "{color.gray.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.gray.200}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{color.gray.50}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.gray.400}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.gray.100}",
+          "type": "color"
+        }
+      },
       "muted": {
         "value": "{color.gray.800}",
         "type": "color"
