@@ -1612,6 +1612,10 @@
       "value": "{Size.1}",
       "type": "spacing"
     },
+    "p-1_5": {
+      "value": "{Size.1_5}",
+      "type": "spacing"
+    },
     "p-2": {
       "value": "{Size.2}",
       "type": "spacing"
