@@ -1,7 +1,8 @@
 {
   "tokenSetOrder": [
     "Global",
-    "brandA",
+    "brandA/core",
+    "brandA/tablet",
     "brandB",
     "Opacity"
   ]
