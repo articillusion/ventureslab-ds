@@ -1,7 +1,11 @@
 {
   "tokenSetOrder": [
     "Global/typeface/inter",
-    "Global/typeface",
+    "Global/primitives/colors",
+    "Global/primitives/dimensions",
+    "Global/primitives/font-styling",
+    "Global/primitives/text-dimensions-tailwind",
+    "Global/primitives/text-dimension-scale",
     "Global",
     "brandA/core",
     "brandA/tablet",
