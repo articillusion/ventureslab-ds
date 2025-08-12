@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
+    "Global/typeface/inter",
+    "Global/typeface",
     "Global",
     "brandA/core",
     "brandA/tablet",

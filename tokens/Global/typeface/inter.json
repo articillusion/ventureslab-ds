@@ -1,0 +1,46 @@
+{
+  "fontFamilies": {
+    "Inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "inter-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "inter-extralight": {
+      "value": "ExtraLight",
+      "type": "fontWeights"
+    },
+    "inter-light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "inter-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "inter-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "inter-semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "inter-bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "inter-extrabold": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    },
+    "inter-black": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  }
+}
