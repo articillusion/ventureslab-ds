@@ -9,8 +9,6 @@
     "Global",
     "brandA/core",
     "brandA/tablet",
-    "brandA/mobile",
-    "brandB",
-    "Opacity"
+    "brandA/mobile"
   ]
 }
