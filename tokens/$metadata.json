@@ -4,9 +4,7 @@
     "Global/primitives/colors",
     "Global/primitives/dimensions",
     "Global/primitives/font-styling",
-    "Global/primitives/text-dimensions-tailwind",
-    "Global/primitives/text-dimension-scale",
-    "Global",
+    "Global/dimension/size",
     "brandA/core",
     "brandA/tablet",
     "brandA/mobile"
