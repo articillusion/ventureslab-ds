@@ -261,151 +261,151 @@
   "breakpoint": {
     "0": {
       "value": "0px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Zero container width"
     },
     "xs": {
       "value": "320px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Extra small container"
     },
     "sm": {
       "value": "384px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Small container"
     },
     "md": {
       "value": "448px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Medium container"
     },
     "lg": {
       "value": "512px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Large container"
     },
     "xl": {
       "value": "576px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "Extra large container"
     },
     "2xl": {
       "value": "672px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "2XL container"
     },
     "3xl": {
       "value": "768px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "3XL container"
     },
     "4xl": {
       "value": "896px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "4XL container"
     },
     "5xl": {
       "value": "1024px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "5XL container"
     },
     "6xl": {
       "value": "1152px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "6XL container"
     },
     "7xl": {
       "value": "1280px",
-      "type": "sizing",
+      "type": "dimension",
       "description": "7XL container"
     }
   },
   "radius": {
     "none": {
       "value": "{size.0}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "No border radius"
     },
     "xs": {
       "value": "{size.0_5}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Extra small radius"
     },
     "sm": {
       "value": "{size.1}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Small radius"
     },
     "md": {
       "value": "{size.1_5}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Medium radius"
     },
     "lg": {
       "value": "{size.2}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Large radius"
     },
     "xl": {
       "value": "{size.3}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Extra large radius"
     },
     "2xl": {
       "value": "{size.4}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "2XL radius"
     },
     "3xl": {
       "value": "{size.6}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "3XL radius"
     },
     "4xl": {
       "value": "{size.8}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "4XL radius"
     },
     "full": {
       "value": "{size.96}",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Fully rounded (circle/pill)"
     },
     "border-radius-base": {
       "value": "0.16",
-      "type": "borderRadius",
+      "type": "dimension",
       "description": "Radius Base Scale"
     }
   },
   "border-width": {
     "border_0": {
       "value": "{size.px}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "No border"
     },
     "border_sm": {
       "value": "{size.0_5}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "Thin border"
     },
     "border_md": {
       "value": "{size.1}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "Medium border"
     },
     "border_lg": {
       "value": "{size.1_5}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "Thick border"
     },
     "border_xl": {
       "value": "{size.2}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "Extra thick border"
     },
     "border_2xl": {
       "value": "{size.3}",
-      "type": "borderWidth",
+      "type": "dimension",
       "description": "2XL border"
     }
   }

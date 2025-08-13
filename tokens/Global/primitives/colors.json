@@ -1,7 +1,11 @@
 {
   "color": {
-    "Black": {
+    "black": {
       "value": "#000000",
+      "type": "color"
+    },
+    "White": {
+      "value": "#ffffff",
       "type": "color"
     },
     "gray": {
@@ -601,10 +605,6 @@
         "value": "#4c0519",
         "type": "color"
       }
-    },
-    "White": {
-      "value": "#ffffff",
-      "type": "color"
     },
     "slate": {
       "50": {
