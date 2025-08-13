@@ -51,12 +51,6 @@
       "type": "typography"
     }
   },
-  "fontFamilies": {
-    "Inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    }
-  },
   "Heading": {
     "Large": {
       "value": {
@@ -765,6 +759,36 @@
         "value": "{color.indigo.50}",
         "type": "color"
       }
+    },
+    "border_0": {
+      "value": "{border-width.border_0}",
+      "type": "borderWidth",
+      "description": "No border"
+    },
+    "border_sm": {
+      "value": "{border-width.border_sm}",
+      "type": "borderWidth",
+      "description": "Thin border"
+    },
+    "border_md": {
+      "value": "{border-width.border_md}",
+      "type": "borderWidth",
+      "description": "Medium border"
+    },
+    "border_lg": {
+      "value": "{border-width.border_lg}",
+      "type": "borderWidth",
+      "description": "Thick border"
+    },
+    "border_xl": {
+      "value": "{border-width.border_xl}",
+      "type": "borderWidth",
+      "description": "Extra thick border"
+    },
+    "border_2xl": {
+      "value": "{border-width.border_2xl}",
+      "type": "borderWidth",
+      "description": "2XL border"
     }
   },
   "text": {
@@ -1057,93 +1081,95 @@
       "type": "boxShadow"
     }
   },
-  "ring-info": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.blue.300}",
-      "type": "dropShadow"
+  "ring-group": {
+    "ring-info": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.blue.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-success": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.green.300}",
-      "type": "dropShadow"
+    "ring-success": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.green.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-warning": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.yellow.300}",
-      "type": "dropShadow"
+    "ring-warning": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.yellow.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-error": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.red.300}",
-      "type": "dropShadow"
+    "ring-error": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.red.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-primary": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{primary.400}",
-      "type": "dropShadow"
+    "ring-primary": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{primary.400}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-secondary": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{secondary.400}",
-      "type": "dropShadow"
+    "ring-secondary": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{secondary.400}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-tertiary": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.gray.300}",
-      "type": "dropShadow"
+    "ring-tertiary": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.gray.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
-  },
-  "ring-soft": {
-    "value": {
-      "x": "{size.0}",
-      "y": "{size.0}",
-      "blur": "{size.0}",
-      "spread": "{size.0_5}",
-      "color": "{color.gray.300}",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
+    "ring-soft": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.gray.300}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   },
   "radius": {
     "none": {
@@ -1196,36 +1222,6 @@
       "type": "borderRadius",
       "description": "Fully rounded (circle/pill)"
     }
-  },
-  "border_0": {
-    "value": "{border-width.border_0}",
-    "type": "borderWidth",
-    "description": "No border"
-  },
-  "border_sm": {
-    "value": "{border-width.border_sm}",
-    "type": "borderWidth",
-    "description": "Thin border"
-  },
-  "border_md": {
-    "value": "{border-width.border_md}",
-    "type": "borderWidth",
-    "description": "Medium border"
-  },
-  "border_lg": {
-    "value": "{border-width.border_lg}",
-    "type": "borderWidth",
-    "description": "Thick border"
-  },
-  "border_xl": {
-    "value": "{border-width.border_xl}",
-    "type": "borderWidth",
-    "description": "Extra thick border"
-  },
-  "border_2xl": {
-    "value": "{border-width.border_2xl}",
-    "type": "borderWidth",
-    "description": "2XL border"
   },
   "Button": {
     "Large": {
