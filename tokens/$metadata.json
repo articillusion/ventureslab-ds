@@ -2,7 +2,8 @@
   "tokenSetOrder": [
     "Global/primitives/colors",
     "Global/primitives/font-styling",
-    "Global/dimension/size",
+    "Global/primitives/size",
+    "Global/borders",
     "brandA/core"
   ]
 }

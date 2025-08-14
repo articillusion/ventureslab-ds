@@ -180,50 +180,90 @@
       "type": "dimension",
       "description": "Large-medium size"
     },
-    "-12": {
-      "value": "-1px",
+    "minus-0_5": {
+      "value": "-2px",
       "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-10": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-8": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-6": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-5": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-4": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-3": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
-    },
-    "minus-2": {
-      "value": "-1px",
-      "type": "dimension",
-      "description": "Zero size"
+      "description": "Negative extra small size"
     },
     "minus-1": {
-      "value": "-1px",
+      "value": "-4px",
       "type": "dimension",
-      "description": "Zero size"
+      "description": "Negative small size"
+    },
+    "minus-1_5": {
+      "value": "-6px",
+      "type": "dimension",
+      "description": "Negative small-medium size"
+    },
+    "minus-2": {
+      "value": "-8px",
+      "type": "dimension",
+      "description": "Negative medium size"
+    },
+    "minus-2_5": {
+      "value": "-10px",
+      "type": "dimension",
+      "description": "Negative medium-large size"
+    },
+    "minus-3": {
+      "value": "-12px",
+      "type": "dimension",
+      "description": "Negative large size"
+    },
+    "minus-3_5": {
+      "value": "-14px",
+      "type": "dimension",
+      "description": "Negative large-medium size"
+    },
+    "minus-4": {
+      "value": "-16px",
+      "type": "dimension",
+      "description": "Negative extra large size"
+    },
+    "minus-4_5": {
+      "value": "-18px",
+      "type": "dimension",
+      "description": "Negative large-medium size"
+    },
+    "minus-5": {
+      "value": "-20px",
+      "type": "dimension",
+      "description": "Negative 2XL size"
+    },
+    "minus-6": {
+      "value": "-24px",
+      "type": "dimension",
+      "description": "Negative 3XL size"
+    },
+    "minus-7": {
+      "value": "-28px",
+      "type": "dimension",
+      "description": "Negative 4XL size"
+    },
+    "minus-8": {
+      "value": "-32px",
+      "type": "dimension",
+      "description": "Negative 5XL size"
+    },
+    "minus-9": {
+      "value": "-36px",
+      "type": "dimension",
+      "description": "Negative 6XL size"
+    },
+    "minus-10": {
+      "value": "-40px",
+      "type": "dimension",
+      "description": "Negative 7XL size"
+    },
+    "minus-11": {
+      "value": "-44px",
+      "type": "dimension",
+      "description": "Negative 8XL size"
+    },
+    "minus-12": {
+      "value": "-48px",
+      "type": "dimension",
+      "description": "Negative 9XL size"
     }
   },
   "skew": {
@@ -318,95 +358,6 @@
       "value": "1280px",
       "type": "dimension",
       "description": "7XL container"
-    }
-  },
-  "radius": {
-    "none": {
-      "value": "{size.0}",
-      "type": "dimension",
-      "description": "No border radius"
-    },
-    "xs": {
-      "value": "{size.0_5}",
-      "type": "dimension",
-      "description": "Extra small radius"
-    },
-    "sm": {
-      "value": "{size.1}",
-      "type": "dimension",
-      "description": "Small radius"
-    },
-    "md": {
-      "value": "{size.1_5}",
-      "type": "dimension",
-      "description": "Medium radius"
-    },
-    "lg": {
-      "value": "{size.2}",
-      "type": "dimension",
-      "description": "Large radius"
-    },
-    "xl": {
-      "value": "{size.3}",
-      "type": "dimension",
-      "description": "Extra large radius"
-    },
-    "2xl": {
-      "value": "{size.4}",
-      "type": "dimension",
-      "description": "2XL radius"
-    },
-    "3xl": {
-      "value": "{size.6}",
-      "type": "dimension",
-      "description": "3XL radius"
-    },
-    "4xl": {
-      "value": "{size.8}",
-      "type": "dimension",
-      "description": "4XL radius"
-    },
-    "full": {
-      "value": "{size.96}",
-      "type": "dimension",
-      "description": "Fully rounded (circle/pill)"
-    },
-    "border-radius-base": {
-      "value": "0.16",
-      "type": "dimension",
-      "description": "Radius Base Scale"
-    }
-  },
-  "border-width": {
-    "border_0": {
-      "value": "{size.px}",
-      "type": "dimension",
-      "description": "No border"
-    },
-    "border_sm": {
-      "value": "{size.0_5}",
-      "type": "dimension",
-      "description": "Thin border"
-    },
-    "border_md": {
-      "value": "{size.1}",
-      "type": "dimension",
-      "description": "Medium border"
-    },
-    "border_lg": {
-      "value": "{size.1_5}",
-      "type": "dimension",
-      "description": "Thick border"
-    },
-    "border_xl": {
-      "value": "{size.2}",
-      "type": "dimension",
-      "description": "Extra thick border"
-    },
-    "border_2xl": {
-      "value": "{size.3}",
-      "type": "dimension",
-      "description": "2XL border"
     }
   }
 }
