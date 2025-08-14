@@ -1,5 +1,5 @@
 {
-  "line-height": {
+  "lineHeight": {
     "3": {
       "value": "0.75rem",
       "type": "lineHeights",
@@ -129,7 +129,7 @@
       "type": "fontSizes"
     }
   },
-  "font-weight": {
+  "fontWeight": {
     "thin": {
       "value": "100",
       "type": "fontWeights"
@@ -167,7 +167,7 @@
       "type": "fontWeights"
     }
   },
-  "letter-space": {
+  "letterSpace": {
     "tracking-tightest": {
       "value": "-5.4",
       "type": "letterSpacing"
@@ -201,7 +201,7 @@
       "type": "letterSpacing"
     }
   },
-  "family": {
+  "fontFamily": {
     "primary": {
       "value": "Inter",
       "type": "fontFamilies"

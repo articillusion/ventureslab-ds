@@ -1,5 +1,5 @@
 {
-  "radius": {
+  "borderRadius": {
     "none": {
       "value": "{size.0}",
       "type": "dimension",
@@ -56,7 +56,7 @@
       "description": "Radius Base Scale"
     }
   },
-  "border-width": {
+  "borderWidth": {
     "border_0": {
       "value": "{size.px}",
       "type": "dimension",
