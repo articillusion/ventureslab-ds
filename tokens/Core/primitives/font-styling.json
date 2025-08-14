@@ -75,7 +75,7 @@
       "description": "Loose line height (200%)"
     }
   },
-  "font-sizes": {
+  "fontSize": {
     "xs": {
       "value": "{size.3}",
       "type": "fontSizes"
