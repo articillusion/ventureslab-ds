@@ -1,14 +1,200 @@
 {
+  "brandColors": {
+    "primary": {
+      "50": {
+        "value": "#ecfff3",
+        "type": "color"
+      },
+      "100": {
+        "value": "#cfffdf",
+        "type": "color"
+      },
+      "200": {
+        "value": "#9dffc2",
+        "type": "color"
+      },
+      "300": {
+        "value": "#6affa6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#48ff90",
+        "type": "color"
+      },
+      "500": {
+        "value": "#31ff6c",
+        "type": "color"
+      },
+      "600": {
+        "value": "#28db5c",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1f9a46",
+        "type": "color"
+      },
+      "800": {
+        "value": "#166833",
+        "type": "color"
+      },
+      "900": {
+        "value": "#0c4622",
+        "type": "color"
+      },
+      "950": {
+        "value": "#052913",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "50": {
+        "value": "#f2eeff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e4ddff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c9bbff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ae99ff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#9377ff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#8056ff",
+        "type": "color"
+      },
+      "600": {
+        "value": "#6d3fe5",
+        "type": "color"
+      },
+      "700": {
+        "value": "#5933bd",
+        "type": "color"
+      },
+      "800": {
+        "value": "#452895",
+        "type": "color"
+      },
+      "900": {
+        "value": "#311d6d",
+        "type": "color"
+      },
+      "950": {
+        "value": "#1f1247",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "50": {
+        "value": "#ecfff4",
+        "type": "color"
+      },
+      "100": {
+        "value": "#d9ffe9",
+        "type": "color"
+      },
+      "200": {
+        "value": "#b3ffd3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#8dffbe",
+        "type": "color"
+      },
+      "400": {
+        "value": "#66ffa8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#31ff6c",
+        "type": "color"
+      },
+      "600": {
+        "value": "#29d960",
+        "type": "color"
+      },
+      "700": {
+        "value": "#22b354",
+        "type": "color"
+      },
+      "800": {
+        "value": "#1c8d48",
+        "type": "color"
+      },
+      "900": {
+        "value": "#16673c",
+        "type": "color"
+      },
+      "950": {
+        "value": "#0f4029",
+        "type": "color"
+      }
+    },
+    "brand-neutral": {
+      "50": {
+        "value": "{color.zinc.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{color.zinc.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{color.zinc.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{color.zinc.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{color.zinc.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{color.zinc.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{color.zinc.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{color.zinc.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{color.zinc.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{color.zinc.900}",
+        "type": "color"
+      },
+      "950": {
+        "value": "{color.zinc.950}",
+        "type": "color"
+      }
+    }
+  },
   "atoms": {
     "button": {
       "primary": {
         "background": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.primary.500}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.primary.600}",
             "type": "color"
           },
           "focus": {
@@ -26,11 +212,11 @@
         },
         "border": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.primary.500}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.primary.600}",
             "type": "color"
           },
           "focus": {
