@@ -641,6 +641,84 @@
           "type": "color"
         }
       }
+    },
+    "toggleSwitch": {
+      "background": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "molecules": {
+    "game-card": {
+      "background": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
     }
   }
 }
