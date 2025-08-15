@@ -712,9 +712,147 @@
     }
   },
   "molecules": {
-    "game-card": {
+    "navigation": {
+      "game-tabs": {
+        "button": {
+          "background": {
+            "default": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "hover": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "active": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "hover": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "active": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "hover": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "active": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "hover": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "active": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
+    "game-tile": {
       "background": {
         "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "title": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "subtitle": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "provider-tile": {
+      "background": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "title": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "subtitle": {
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "hover": {
           "value": "#ffffff",
           "type": "color"
         }
