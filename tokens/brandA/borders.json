@@ -1,0 +1,128 @@
+{
+  "atoms": {
+    "button": {
+      "border-sizes": {
+        "xs": {
+          "value": "{size.0_5}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "base": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.2}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{size.3}",
+          "type": "dimension"
+        }
+      }
+    },
+    "badge-status": {
+      "border-sizes": {
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        }
+      }
+    },
+    "avatar": {
+      "border-sizes": {
+        "xs": {
+          "value": "{size.0_5}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.2}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{size.3}",
+          "type": "dimension"
+        },
+        "2xl": {
+          "value": "{size.4}",
+          "type": "dimension"
+        },
+        "3xl": {
+          "value": "{size.6}",
+          "type": "dimension"
+        }
+      }
+    },
+    "input": {
+      "border-sizes": {
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.2}",
+          "type": "dimension"
+        }
+      }
+    },
+    "checkbox": {
+      "border-sizes": {
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        }
+      }
+    },
+    "radiobutton": {
+      "border-sizes": {
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        }
+      }
+    },
+    "toggleSwitch": {
+      "border-sizes": {
+        "sm": {
+          "value": "{size.1}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.2}",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

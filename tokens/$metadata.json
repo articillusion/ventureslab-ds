@@ -4,6 +4,8 @@
     "Core/primitives/font-styling",
     "Core/primitives/size",
     "Core/borders",
+    "brandA/colors",
+    "brandA/borders",
     "brandA/core"
   ]
 }
