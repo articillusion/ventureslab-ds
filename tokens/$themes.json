@@ -682,7 +682,8 @@
       "atoms.checkbox.background.default-checked": "S:814d43ccd44a561b7d6e86e8b77f39e50beb068c,",
       "atoms.checkbox.background.hover-checked": "S:3184f0d60a46806897b3f21037cdd7c55e3dda98,",
       "atoms.checkbox.background.disabled-checked": "S:4c01d6727b1bc99dec5581dbe7f63503dabd530e,",
-      "atoms.checkbox.background.error": "S:1924571d19bc3fb78f53620a0c52b67a630415b3,"
+      "atoms.checkbox.background.error": "S:1924571d19bc3fb78f53620a0c52b67a630415b3,",
+      "atoms.input.border.error-focus": "S:dfc7f69d986cc43175af5a6465777b51acb70d9f,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1206,6 +1207,7 @@
       "atoms.input.border.disabled": "855c88b8b991423e000dfed3103db765c7b82587",
       "atoms.input.border.active": "d7e6413642bc889beed25b3591986c142edd5f67",
       "atoms.input.border.error": "093534982e3ddd5e859e05b5db723161aae84f10",
+      "atoms.input.border.error-focus": "71dfcdd4e314058853c78441633a9cbb34529817",
       "atoms.input.text.default": "1f89428c145f5a4a9d79f772cff35bd35849b66a",
       "atoms.input.text.hover": "15cf808d57580f3d08c9b740a6c841ce56e373fb",
       "atoms.input.text.focus": "2e2d70ef332d2cd8e2c9413054a438a35ec829a7",
