@@ -1177,8 +1177,6 @@
       "atoms.input.background.default": "57d9ad8888fbc96acdb3ac8326da0d600a0f395e",
       "atoms.input.background.hover": "449a933579ac9eb347a2acaee62cee6f5c75bc91",
       "atoms.input.background.focus": "f59be9a813cbab023d3f4e09b34bb7140c7debd6",
-      "atoms.input.background.disabled": "746b01743936c028fbbff6f27dfeaaa1c73973cd",
-      "atoms.input.background.active": "cf9482896b9d1172eed4cd4e864019186e9426a6",
       "atoms.input.border.default": "534c9369233376f5a804027210ed65d5c9b89b63",
       "atoms.input.border.hover": "5d4f307782b32082bde15a84b7e4f98c33cdd1f7",
       "atoms.input.border.focus": "115c6ce512516c07cfa6353f23b422a6c3e36da8",
@@ -1194,11 +1192,6 @@
       "atoms.input.icon.focus": "935799747240a0465a6105c1882a75fcc2d2fd9a",
       "atoms.input.icon.disabled": "001f6525fc02d6cff4218ade9731f1c89ad004ce",
       "atoms.input.icon.active": "4ff2087ced27b90832d77dfc88fa4163d8f7d3a8",
-      "atoms.checkbox.background.default": "59a402944631349d44962cd17e3b74aca128149d",
-      "atoms.checkbox.background.hover": "4c2eba98976dc617d3cf3e157b58e7b41a06cdd1",
-      "atoms.checkbox.background.focus": "c042dd5035e1afb838f1a581779ca624bd00fbb3",
-      "atoms.checkbox.background.disabled": "c97dfc65b5a01ef7901e055a62ba01c4ddbe4a3c",
-      "atoms.checkbox.background.active": "a42cdc27bbcd5f016e7744cbe9757441c0b52bd7",
       "atoms.checkbox.border.default": "c5a67b9d86be4f8b32be13d0b5caad9445bbaf4c",
       "atoms.checkbox.border.hover": "b2c3285492c24e0b5450e10e0af5717d52fbb954",
       "atoms.checkbox.border.focus": "afdd22505ea38bd703cf7d01541f2601adf8fd3a",
@@ -1514,7 +1507,11 @@
       "radius.2xl": "cbc59a5ac5702883e95667a35b0671ae6bb2b95d",
       "radius.3xl": "02b606d33c0e6525609e8916a6e15e5011ef9629",
       "radius.4xl": "e441cf17d1dbb8e7b091f61bbfc50e147c3fbcc7",
-      "radius.full": "5996c5cb52670844e27c43cdbc4404048286dba3"
+      "radius.full": "5996c5cb52670844e27c43cdbc4404048286dba3",
+      "atoms.input.background.disabled-unchecked": "746b01743936c028fbbff6f27dfeaaa1c73973cd",
+      "atoms.checkbox.background.default-unchecked": "59a402944631349d44962cd17e3b74aca128149d",
+      "atoms.checkbox.background.hover-unchecked": "4c2eba98976dc617d3cf3e157b58e7b41a06cdd1",
+      "atoms.checkbox.background.focus-unchecked": "c042dd5035e1afb838f1a581779ca624bd00fbb3"
     }
   }
 ]
