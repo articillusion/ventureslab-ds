@@ -245,9 +245,9 @@
     "Medium": {
       "value": {
         "fontFamily": "{fontFamily.primary}",
-        "fontWeight": "{fontWeight.extrabold}",
+        "fontWeight": "{fontWeight.semibold}",
         "fontSize": "{fontSize.base}",
-        "letterSpacing": "{letterSpace.tracking-tighter}",
+        "letterSpacing": "{letterSpace.tracking-tight}",
         "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
@@ -265,7 +265,7 @@
     "small": {
       "value": {
         "fontFamily": "{fontFamily.primary}",
-        "fontWeight": "{fontWeight.medium}",
+        "fontWeight": "{fontWeight.semibold}",
         "fontSize": "{fontSize.sm}",
         "letterSpacing": "{letterSpace.tracking-tight}",
         "lineHeight": "{lineHeight.auto}"

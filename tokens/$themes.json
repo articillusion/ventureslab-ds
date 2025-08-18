@@ -658,7 +658,11 @@
       "ringGroup.ring-primary": "S:91a7045b2e6eff419d61f462ed57b5fc0564dd3e,",
       "ringGroup.ring-secondary": "S:1ed47e38c7f4f00bb4ff0753833e105f8b9b0b63,",
       "ringGroup.ring-tertiary": "S:dee40b4f92b3a17c12fd7cef25b784698e43f142,",
-      "ringGroup.ring-soft": "S:a53dc2349e0a6f8537f47ab7d9414f67edeaf195,"
+      "ringGroup.ring-soft": "S:a53dc2349e0a6f8537f47ab7d9414f67edeaf195,",
+      "Button.Extra Large": "S:f520de304e4e66b3287648724b832521850b37f9,",
+      "Button.Medium": "S:44b9f9f7bfc88f162e3559dafd73c6e0ff69eadf,",
+      "Button.base": "S:01d710fe33a829ff0775b0d300806503b7b7679e,",
+      "Button.small": "S:b320874024dc62161d09f7bc2a46016c5a86d9cf,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",

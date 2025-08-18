@@ -246,7 +246,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{brandColors.neutral.200}",
+            "value": "{brandColors.neutral.300}",
             "type": "color"
           },
           "active": {
@@ -268,7 +268,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{brandColors.neutral.200}",
+            "value": "{brandColors.neutral.300}",
             "type": "color"
           },
           "active": {
@@ -292,7 +292,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{brandColors.secondary.700}",
+            "value": "{brandColors.neutral.700}",
             "type": "color"
           },
           "active": {
@@ -314,7 +314,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{brandColors.secondary.700}",
+            "value": "{brandColors.neutral.700}",
             "type": "color"
           },
           "active": {
@@ -370,89 +370,89 @@
       "plain": {
         "background": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.800}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.700}",
             "type": "color"
           },
           "focus": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.800}",
             "type": "color"
           },
           "disabled": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "active": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.600}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.700}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.600}",
             "type": "color"
           },
           "focus": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.400}",
             "type": "color"
           },
           "disabled": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.800}",
             "type": "color"
           },
           "active": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.500}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "focus": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "disabled": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.400}",
             "type": "color"
           },
           "active": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           }
         },
         "icon": {
           "default": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "hover": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "focus": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "disabled": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.400}",
             "type": "color"
           },
           "active": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           }
         }
