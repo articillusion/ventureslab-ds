@@ -26,23 +26,23 @@
         },
         "border-radius": {
           "xs": {
-            "value": "{size.0_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           }
         }
@@ -72,23 +72,23 @@
         },
         "border-radius": {
           "xs": {
-            "value": "{size.0_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           }
         }
@@ -118,23 +118,23 @@
         },
         "border-radius": {
           "xs": {
-            "value": "{size.0_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{borderRadius.full}",
             "type": "dimension"
           }
         }
@@ -153,11 +153,11 @@
       },
       "border-radius": {
         "sm": {
-          "value": "{size.1}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "md": {
-          "value": "{size.1_5}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         }
       }
@@ -195,31 +195,31 @@
       },
       "border-radius": {
         "xs": {
-          "value": "{size.0_5}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "sm": {
-          "value": "{size.1}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "md": {
-          "value": "{size.1_5}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "lg": {
-          "value": "{size.2}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{size.3}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "2xl": {
-          "value": "{size.4}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "3xl": {
-          "value": "{size.6}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         }
       }
