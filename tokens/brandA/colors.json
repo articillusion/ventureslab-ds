@@ -189,12 +189,12 @@
     "button": {
       "primary": {
         "background": {
-          "default": {
-            "value": "{brandColors.primary.500}",
-            "type": "color"
-          },
           "hover": {
             "value": "{brandColors.primary.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{brandColors.primary.500}",
             "type": "color"
           },
           "focus": {
