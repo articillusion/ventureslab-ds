@@ -683,7 +683,8 @@
       "atoms.checkbox.background.hover-checked": "S:3184f0d60a46806897b3f21037cdd7c55e3dda98,",
       "atoms.checkbox.background.disabled-checked": "S:4c01d6727b1bc99dec5581dbe7f63503dabd530e,",
       "atoms.checkbox.background.error": "S:1924571d19bc3fb78f53620a0c52b67a630415b3,",
-      "atoms.input.border.error-focus": "S:dfc7f69d986cc43175af5a6465777b51acb70d9f,"
+      "atoms.input.border.error-focus": "S:dfc7f69d986cc43175af5a6465777b51acb70d9f,",
+      "atoms.checkbox.border.error": "S:eadac4cbca536265cd71c7620c79ee1224e2b622,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1212,8 +1213,8 @@
       "atoms.input.text.hover": "15cf808d57580f3d08c9b740a6c841ce56e373fb",
       "atoms.input.text.focus": "2e2d70ef332d2cd8e2c9413054a438a35ec829a7",
       "atoms.input.text.disabled": "5b8e5dc1e76821948e41a0153f9a009f5b8a4993",
-      "atoms.input.text.active": "d703d2ab995bb25d4c1f7e5259b5abd40cea8e7d",
       "atoms.input.text.error": "df028c60472ee7ec0ce4999b5a00b5fc394e7280",
+      "atoms.input.text.active": "d703d2ab995bb25d4c1f7e5259b5abd40cea8e7d",
       "atoms.input.icon.default": "5488811fc68e2df3b88fe4cf2878f632abe1d172",
       "atoms.input.icon.hover": "0c469dfd30a65e4d88eecb989354d9e03b513507",
       "atoms.input.icon.focus": "935799747240a0465a6105c1882a75fcc2d2fd9a",
@@ -1227,8 +1228,8 @@
       "atoms.input.placeholder.active": "400e1c47b1a6e03518b58508715a7d45f3c8c752",
       "atoms.input.placeholder.error": "4e7ec6d28d7312f00305235e3b51ba124e392fce",
       "atoms.checkbox.background.default-unchecked": "59a402944631349d44962cd17e3b74aca128149d",
-      "atoms.checkbox.background.hover-unchecked": "4c2eba98976dc617d3cf3e157b58e7b41a06cdd1",
       "atoms.checkbox.background.focus-unchecked": "c042dd5035e1afb838f1a581779ca624bd00fbb3",
+      "atoms.checkbox.background.hover-unchecked": "4c2eba98976dc617d3cf3e157b58e7b41a06cdd1",
       "atoms.checkbox.background.disabled-unchecked": "aa29a9ce228a3683aed42ee13bcaa1627862d823",
       "atoms.checkbox.background.default-checked": "139f5a2b3ff1bce1a9cd24f8c5bef56c1c694758",
       "atoms.checkbox.background.hover-checked": "72f95b61ed956b72a1fd5328293a563686edc635",
@@ -1239,6 +1240,7 @@
       "atoms.checkbox.border.focus": "afdd22505ea38bd703cf7d01541f2601adf8fd3a",
       "atoms.checkbox.border.disabled": "7f522706973daac06123b90ee6b25ea29533f5db",
       "atoms.checkbox.border.active": "6a25ccf276384c537106d6d287258a67235ed0d2",
+      "atoms.checkbox.border.error": "036d41f6743145dd304cb94bb7db553a3cf91938",
       "atoms.checkbox.icon.default": "236757c0603367d473fbace4e126095e386df2cf",
       "atoms.checkbox.icon.hover": "ac4600f1ba7f71a4f473cd0995763d7f0ce0cc0a",
       "atoms.checkbox.icon.focus": "7ce09e9f1545deeeca471a952a4726925903627d",

@@ -815,7 +815,7 @@
           "type": "color"
         },
         "error": {
-          "value": "{color.red.400}",
+          "value": "{color.red.500}",
           "type": "color"
         }
       },
@@ -829,7 +829,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "{brandColors.primary.500}",
+          "value": "{brandColors.primary.400}",
           "type": "color"
         },
         "disabled": {
@@ -837,33 +837,41 @@
           "type": "color"
         },
         "active": {
-          "value": "{primary.700}",
+          "value": "{primary.600}",
+          "type": "color"
+        },
+        "hover-checked": {
+          "value": "{primary.600}",
+          "type": "color"
+        },
+        "focus-checked": {
+          "value": "{primary.300}",
           "type": "color"
         },
         "error": {
-          "value": "{color.red.500}",
+          "value": "{color.red.300}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "#000000",
+          "value": "{brand-neutral.950}",
           "type": "color"
         },
         "hover": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#000000",
+          "value": "{brand-neutral.800}",
           "type": "color"
         },
         "disabled": {
-          "value": "#000000",
+          "value": "{brand-neutral.400}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{brand-neutral.950}",
           "type": "color"
         },
         "active": {
-          "value": "#000000",
+          "value": "{brand-neutral.950}",
           "type": "color"
         }
       }
