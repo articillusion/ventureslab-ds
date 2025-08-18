@@ -227,11 +227,11 @@
     "input": {
       "border-sizes": {
         "sm": {
-          "value": "{size.1}",
+          "value": "{size.px}",
           "type": "dimension"
         },
         "md": {
-          "value": "{size.1_5}",
+          "value": "{size.0_5}",
           "type": "dimension"
         },
         "lg": {
@@ -241,7 +241,7 @@
       },
       "border-radius": {
         "sm": {
-          "value": "{size.1}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         },
         "md": {
