@@ -729,15 +729,15 @@
       },
       "icon": {
         "default": {
-          "value": "{brand-neutral.200}",
+          "value": "{brand-neutral.300}",
           "type": "color"
         },
         "hover": {
-          "value": "{brand-neutral.200}",
+          "value": "{brand-neutral.300}",
           "type": "color"
         },
         "focus": {
-          "value": "{brand-neutral.200}",
+          "value": "{brand-neutral.300}",
           "type": "color"
         },
         "disabled": {
@@ -749,7 +749,7 @@
           "type": "color"
         },
         "error": {
-          "value": "{brand-neutral.200}",
+          "value": "{brand-neutral.300}",
           "type": "color"
         }
       },
