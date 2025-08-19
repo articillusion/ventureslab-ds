@@ -22,12 +22,17 @@
         "type": "dimension"
       },
       "2xl": {
-        "value": "{size.3}",
+        "value": "{size.4}",
         "type": "dimension"
       },
       "3xl": {
-        "value": "{size.3}",
+        "value": "{size.6}",
         "type": "dimension"
+      },
+      "none": {
+        "value": "{size.0}",
+        "type": "dimension",
+        "description": "null"
       }
     }
   }
