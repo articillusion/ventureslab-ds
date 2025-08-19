@@ -725,7 +725,9 @@
       "molecules.navigation.leftmenu.text.default": "S:d5d6ffde12501625a51605b584fdfee072a29b85,",
       "molecules.navigation.leftmenu.text.hover": "S:54ca6daee77c4ef5f05b990c97df4a5243fe019f,",
       "molecules.navigation.leftmenu.text.active": "S:4e7c3cc158f28477c6d7bb93e769646632a54327,",
-      "molecules.navigation.leftmenu.text.focus": "S:d0122520e5377683ab08d73ad78f3c46e2d0e3a3,"
+      "molecules.navigation.leftmenu.text.focus": "S:d0122520e5377683ab08d73ad78f3c46e2d0e3a3,",
+      "molecules.game-container.background.default": "S:5733e953d7eac298ce25116af6190b9d525ac89a,",
+      "molecules.game-container.border.default": "S:37229c47503c916124a51b0d981d21215e56dfb6,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1375,6 +1377,8 @@
       "molecules.overlays.popups.border.default": "4d222f510abdf8bc62fe2ad5f7e43f2e4553e26d",
       "molecules.overlays.popups.title.default": "f4dc11eb831c0a2c20c28047538b38d0768497bc",
       "molecules.overlays.popups.subtitle.default": "f14d5b6391221ec3ac7d15a756bec4ce77e394e2",
+      "molecules.game-container.background.default": "b0167129814bd9253d88675073bd0b763c198b72",
+      "molecules.game-container.border.default": "504e7dc94ea4e784faa50ef55cbe424025553067",
       "atoms.button.primary.border-sizes.xs": "1805e4a169c8ed0393547b3bd32f192eeda2785d",
       "atoms.button.primary.border-sizes.sm": "1e2f8bcbecf10681820b269e37ddc8d3f651a1be",
       "atoms.button.primary.border-sizes.base": "219b3fb6d77f884039f16794879a9f7756fdde6e",
