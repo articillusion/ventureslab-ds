@@ -1185,7 +1185,7 @@
     "game-tile": {
       "background": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.800}",
           "type": "color"
         },
         "hover": {
@@ -1195,7 +1195,7 @@
       },
       "border": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.800}",
           "type": "color"
         },
         "hover": {
@@ -1291,6 +1291,20 @@
             "value": "{brand-neutral.400}",
             "type": "color"
           }
+        }
+      }
+    },
+    "game-container": {
+      "background": {
+        "default": {
+          "value": "{primary.900}30",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{brandColors.primary.700}50",
+          "type": "color"
         }
       }
     }
