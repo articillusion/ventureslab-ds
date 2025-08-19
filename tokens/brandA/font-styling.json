@@ -267,7 +267,7 @@
         "fontFamily": "{fontFamily.primary}",
         "fontWeight": "{fontWeight.semibold}",
         "fontSize": "{fontSize.sm}",
-        "letterSpacing": "{letterSpace.tracking-tight}",
+        "letterSpacing": "{letterSpace.tracking-lesstight}",
         "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
@@ -317,9 +317,9 @@
     "small": {
       "value": {
         "fontFamily": "{fontFamily.primary}",
-        "fontWeight": "{fontWeight.semibold}",
+        "fontWeight": "{fontWeight.medium}",
         "fontSize": "{fontSize.sm}",
-        "letterSpacing": "{letterSpace.tracking-tight}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
         "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
