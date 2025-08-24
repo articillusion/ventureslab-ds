@@ -333,7 +333,7 @@
     "game-card": {
       "border-sizes": {
         "sm": {
-          "value": "{size.1}",
+          "value": "{borderWidth.border_md}",
           "type": "dimension"
         },
         "md": {
