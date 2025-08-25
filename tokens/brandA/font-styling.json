@@ -77,8 +77,8 @@
         "fontFamily": "{fontFamily.primary}",
         "fontWeight": "{fontWeight.bold}",
         "fontSize": "{fontSize.2xl}",
-        "letterSpacing": "{letterSpace.tracking-tighter}",
-        "lineHeight": "{lineHeight.auto} "
+        "letterSpacing": "{letterSpace.tracking-tight}",
+        "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
     },
