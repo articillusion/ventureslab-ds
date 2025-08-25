@@ -237,7 +237,7 @@
         "fontFamily": "{fontFamily.primary}",
         "fontWeight": "{fontWeight.bold}",
         "fontSize": "{fontSize.lg}",
-        "letterSpacing": "{letterSpace.tracking-tighter}",
+        "letterSpacing": "{letterSpace.tracking-tight}",
         "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
