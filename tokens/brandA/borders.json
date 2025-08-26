@@ -8,19 +8,19 @@
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{size.1}",
             "type": "dimension"
           }
         },
@@ -54,19 +54,19 @@
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{size.1}",
             "type": "dimension"
           }
         },
@@ -100,19 +100,19 @@
             "type": "dimension"
           },
           "sm": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1_5}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.2}",
+            "value": "{size.1}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.3}",
+            "value": "{size.1}",
             "type": "dimension"
           }
         },
@@ -331,32 +331,34 @@
   },
   "molecules": {
     "game-card": {
-      "border-sizes": {
-        "sm": {
-          "value": "{borderWidth.border_md}",
-          "type": "dimension"
+      "lg": {
+        "border-sizes": {
+          "sm": {
+            "value": "{borderWidth.border_md}",
+            "type": "dimension"
+          },
+          "md": {
+            "value": "{size.1_5}",
+            "type": "dimension"
+          },
+          "lg": {
+            "value": "{size.1_5}",
+            "type": "dimension"
+          }
         },
-        "md": {
-          "value": "{size.1_5}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{size.1_5}",
-          "type": "dimension"
-        }
-      },
-      "border-radius": {
-        "sm": {
-          "value": "{size.1}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{size.4}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{size.6}",
-          "type": "dimension"
+        "border-radius": {
+          "sm": {
+            "value": "{size.1}",
+            "type": "dimension"
+          },
+          "md": {
+            "value": "{size.4}",
+            "type": "dimension"
+          },
+          "lg": {
+            "value": "{size.6}",
+            "type": "dimension"
+          }
         }
       }
     },
