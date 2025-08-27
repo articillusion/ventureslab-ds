@@ -179,6 +179,17 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "ring-white": {
+      "value": {
+        "x": "{size.0}",
+        "y": "{size.0}",
+        "blur": "{size.0}",
+        "spread": "{size.0_5}",
+        "color": "{color.White}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }

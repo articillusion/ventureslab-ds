@@ -627,7 +627,7 @@
     "avatar": {
       "background": {
         "default": {
-          "value": "#000000",
+          "value": "{brand-neutral.300}",
           "type": "color"
         },
         "hover": {
@@ -644,6 +644,46 @@
         },
         "active": {
           "value": "#000000",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.red.400}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.green.400}",
+          "type": "color"
+        }
+      },
+      "border-ring": {
+        "default": {
+          "value": "{brandColors.primary.400}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.red.400}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.green.400}",
           "type": "color"
         }
       }
@@ -671,7 +711,7 @@
           "type": "color"
         },
         "error": {
-          "value": "{brand-neutral.900}",
+          "value": "{color.red.400}",
           "type": "color"
         }
       },
