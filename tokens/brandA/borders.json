@@ -2,7 +2,7 @@
   "atoms": {
     "button": {
       "primary": {
-        "border-sizes": {
+        "border-size": {
           "xs": {
             "value": "{size.0_5}",
             "type": "dimension"
@@ -48,7 +48,7 @@
         }
       },
       "secondary": {
-        "border-sizes": {
+        "border-size": {
           "xs": {
             "value": "{size.0_5}",
             "type": "dimension"
@@ -94,7 +94,7 @@
         }
       },
       "plain": {
-        "border-sizes": {
+        "border-size": {
           "xs": {
             "value": "{size.0_5}",
             "type": "dimension"
@@ -141,7 +141,7 @@
       }
     },
     "badge-status": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.1}",
           "type": "dimension"
@@ -163,7 +163,7 @@
       }
     },
     "avatar": {
-      "border-sizes": {
+      "border-size": {
         "xs": {
           "value": "{size.0_5}",
           "type": "dimension"
@@ -225,7 +225,7 @@
       }
     },
     "input": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.px}",
           "type": "dimension"
@@ -255,7 +255,7 @@
       }
     },
     "checkbox": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.px}",
           "type": "dimension"
@@ -277,7 +277,7 @@
       }
     },
     "radiobutton": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.px}",
           "type": "dimension"
@@ -299,7 +299,7 @@
       }
     },
     "toggleSwitch": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.1}",
           "type": "dimension"
@@ -332,7 +332,7 @@
   "molecules": {
     "game-card": {
       "lg": {
-        "border-sizes": {
+        "border-size": {
           "sm": {
             "value": "{borderWidth.border_md}",
             "type": "dimension"
@@ -363,7 +363,7 @@
       }
     },
     "provider-card": {
-      "border-sizes": {
+      "border-size": {
         "sm": {
           "value": "{size.1}",
           "type": "dimension"
@@ -395,7 +395,7 @@
     "navigation": {
       "game-tabs": {
         "button": {
-          "border-sizes": {
+          "border-size": {
             "sm": {
               "value": "{size.px}",
               "type": "dimension"
@@ -420,7 +420,7 @@
     },
     "overlays": {
       "popups": {
-        "border-sizes": {
+        "border-size": {
           "sm": {
             "value": "{size.px}",
             "type": "dimension"
