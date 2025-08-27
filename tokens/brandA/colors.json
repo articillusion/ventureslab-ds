@@ -665,7 +665,7 @@
           "type": "color"
         },
         "white": {
-          "value": "{color.White}",
+          "value": "{color.white}",
           "type": "color"
         }
       },
@@ -1139,7 +1139,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{color.White}",
+              "value": "{color.white}",
               "type": "color"
             },
             "focus": {
@@ -1157,7 +1157,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{color.White}",
+              "value": "{color.white}",
               "type": "color"
             },
             "focus": {
@@ -1214,7 +1214,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{color.White}",
+            "value": "{color.white}",
             "type": "color"
           },
           "focus": {
