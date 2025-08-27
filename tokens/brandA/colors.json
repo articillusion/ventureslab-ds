@@ -951,7 +951,7 @@
           "type": "color"
         },
         "disabled-checked": {
-          "value": "{brand-neutral.400}",
+          "value": "{brand-neutral.900}",
           "type": "color"
         },
         "error": {
@@ -989,7 +989,7 @@
           "type": "color"
         },
         "disabled-checked": {
-          "value": "{brandColors.primary.900}",
+          "value": "{brand-neutral.500}",
           "type": "color"
         },
         "error": {
