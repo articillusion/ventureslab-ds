@@ -659,6 +659,14 @@
         "default": {
           "value": "{brandColors.primary.400}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{brandColors.secondary.500}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{color.White}",
+          "type": "color"
         }
       },
       "border": {

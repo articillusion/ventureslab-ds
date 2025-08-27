@@ -61,7 +61,7 @@
       "description": "Snug line height (137.5%)"
     },
     "normal": {
-      "value": "400",
+      "value": "1.5",
       "type": "lineHeights"
     },
     "relaxed": {

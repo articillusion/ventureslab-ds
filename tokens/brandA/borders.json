@@ -165,31 +165,31 @@
     "avatar": {
       "border-size": {
         "xs": {
-          "value": "{size.0_5}",
+          "value": "{size.px}",
           "type": "dimension"
         },
         "sm": {
-          "value": "{size.1}",
+          "value": "{size.0_5}",
           "type": "dimension"
         },
         "md": {
-          "value": "{size.1_5}",
+          "value": "{size.0_5}",
           "type": "dimension"
         },
         "lg": {
-          "value": "{size.2}",
+          "value": "{size.1}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{size.3}",
+          "value": "{size.1}",
           "type": "dimension"
         },
         "2xl": {
-          "value": "{size.4}",
+          "value": "{size.1}",
           "type": "dimension"
         },
         "3xl": {
-          "value": "{size.6}",
+          "value": "{size.1}",
           "type": "dimension"
         }
       },
