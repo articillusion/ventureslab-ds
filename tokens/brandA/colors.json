@@ -719,7 +719,7 @@
           "type": "color"
         },
         "error": {
-          "value": "{color.red.400}",
+          "value": "{brand-neutral.900}",
           "type": "color"
         }
       },
