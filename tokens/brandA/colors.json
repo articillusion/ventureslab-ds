@@ -455,6 +455,28 @@
             "value": "{brandColors.neutral.50}",
             "type": "color"
           }
+        },
+        "pagination-icon": {
+          "default": {
+            "value": "{brandColors.neutral.300}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{brandColors.neutral.50}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{brandColors.neutral.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{brandColors.neutral.400}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{brandColors.neutral.50}",
+            "type": "color"
+          }
         }
       },
       "text-link": {
