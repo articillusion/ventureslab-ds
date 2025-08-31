@@ -1280,6 +1280,7 @@
       "molecules.overlays.popups.subtitle.default": "c1b5f5371403b2dc6a3bd11a7f7e7befd2263f41",
       "molecules.game-container.background.default": "d5508fe7e14d2e53273d608d7db2e30bcda7e4a7",
       "molecules.game-container.border.default": "2dcd35ea6bc11536cf0b189668bfbd50bc8ffb4e",
+      "molecules.navigation.game-tabs.background.default": "59473fa2ac5f378f38fc7bc8a51b524beb42bcbb",
       "atoms.button.primary.border-size.xs": "dcfbb2e1bd37df22b7d2d94a715e6d0d9b70a9d0",
       "atoms.button.primary.border-size.sm": "3c6120f310c1d4025a24b79fcda0f757561b44ca",
       "atoms.button.primary.border-size.base": "8f5f1e4b3f58fb22a95a6d7ac53625ff661d6d73",

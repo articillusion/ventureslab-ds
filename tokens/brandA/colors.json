@@ -1165,6 +1165,12 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "default": {
+            "value": "{brandColors.primary.900}25",
+            "type": "color"
+          }
         }
       },
       "leftmenu": {
