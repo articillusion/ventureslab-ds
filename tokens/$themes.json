@@ -626,7 +626,8 @@
       "brandA/borders": "enabled",
       "brandA/font-styling": "enabled",
       "brandA/box": "enabled",
-      "brandA/blur": "enabled"
+      "brandA/blur": "enabled",
+      "brandA/opacity": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:40001469:29221",
     "$figmaModeId": "40001469:0",
