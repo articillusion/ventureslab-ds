@@ -616,7 +616,8 @@
       "tabButtons.large": "S:00546ca5b4fbcfdfa67f4a740e5752f7adb0fd91,",
       "tabButtons.medium": "S:9e85d093be369e90fa73988cd2c165bee3d174cb,",
       "tabButtons.base": "S:1ab578edf691b9c23e4143c6635e791fd21076b7,",
-      "tabButtons.small": "S:c8657c5a6c9b1cb5d5464df1db13a9996cb20bad,"
+      "tabButtons.small": "S:c8657c5a6c9b1cb5d5464df1db13a9996cb20bad,",
+      "molecules.navigation.game-tabs.background.default": "S:a161b2c667735dbcdaf58d1d07cf8059af3842f2,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",

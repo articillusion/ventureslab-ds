@@ -1168,7 +1168,7 @@
         },
         "background": {
           "default": {
-            "value": "{brandColors.primary.900}25",
+            "value": "{brandColors.primary.950}25",
             "type": "color"
           }
         }
