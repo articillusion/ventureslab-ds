@@ -617,7 +617,12 @@
       "tabButtons.medium": "S:9e85d093be369e90fa73988cd2c165bee3d174cb,",
       "tabButtons.base": "S:1ab578edf691b9c23e4143c6635e791fd21076b7,",
       "tabButtons.small": "S:c8657c5a6c9b1cb5d5464df1db13a9996cb20bad,",
-      "molecules.navigation.game-tabs.background.default": "S:a161b2c667735dbcdaf58d1d07cf8059af3842f2,"
+      "molecules.navigation.game-tabs.background.default": "S:a161b2c667735dbcdaf58d1d07cf8059af3842f2,",
+      "atoms.button.plain.pagination-icon.default": "S:6340e1a9c3e28bd6c7c48b63bea703fb16fad0eb,",
+      "atoms.button.plain.pagination-icon.hover": "S:88cca6460a265a12ffda69402cf47a73f7b1fc6f,",
+      "atoms.button.plain.pagination-icon.focus": "S:f47648fb97fe490b88c8d6c8ad63152863c4ccfe,",
+      "atoms.button.plain.pagination-icon.disabled": "S:29f373879d902dae0f42e1adb1afdbd372808553,",
+      "atoms.button.plain.pagination-icon.active": "S:ef3d61ede7642fedad223ac0a99261f849dab5a0,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1282,6 +1287,11 @@
       "molecules.game-container.background.default": "d5508fe7e14d2e53273d608d7db2e30bcda7e4a7",
       "molecules.game-container.border.default": "2dcd35ea6bc11536cf0b189668bfbd50bc8ffb4e",
       "molecules.navigation.game-tabs.background.default": "59473fa2ac5f378f38fc7bc8a51b524beb42bcbb",
+      "atoms.button.plain.pagination-icon.default": "e97b8d322dd025b174ed5a8e5f07147943e02a4e",
+      "atoms.button.plain.pagination-icon.hover": "bc3c44a960c0e9eb5c65292050ac05d20006c938",
+      "atoms.button.plain.pagination-icon.focus": "e189d049dd57050600bbf3cadac024459c259d7b",
+      "atoms.button.plain.pagination-icon.disabled": "8915567a97892a808ef310b9b3bcf2954ee92ea1",
+      "atoms.button.plain.pagination-icon.active": "ddb78217739d924aa0226f6c2008cd837c3f01c2",
       "atoms.button.primary.border-size.xs": "dcfbb2e1bd37df22b7d2d94a715e6d0d9b70a9d0",
       "atoms.button.primary.border-size.sm": "3c6120f310c1d4025a24b79fcda0f757561b44ca",
       "atoms.button.primary.border-size.base": "8f5f1e4b3f58fb22a95a6d7ac53625ff661d6d73",
