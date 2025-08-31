@@ -1253,7 +1253,7 @@
       },
       "title": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.200}",
           "type": "color"
         },
         "hover": {
@@ -1263,7 +1263,7 @@
       },
       "subtitle": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.400}",
           "type": "color"
         },
         "hover": {
