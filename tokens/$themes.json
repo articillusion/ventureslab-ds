@@ -1394,7 +1394,22 @@
       "blur.background.xl": "4e2aebd89424e172a61ad26999f784a99f08c82f",
       "blur.background.2xl": "b1719e3bbac19e6745893995a39f6bb9b530382c",
       "blur.background.3xl": "a1529e22f738f779a4445bde3ab2ba875ffca88f",
-      "blur.background.none": "d21904866a0eb5a2b57774c639a29004afaaa7e0"
+      "blur.background.none": "d21904866a0eb5a2b57774c639a29004afaaa7e0",
+      "opacity.0": "87e219695843936560255df52a5cd5a2c8627f1a",
+      "opacity.5": "7288fd2c3fcc2d1481f906b7922b3097ae897dd2",
+      "opacity.10": "ece073564f4b2a9a961a87ec7edbb3879d1d1065",
+      "opacity.20": "ec392b8dd6d023fbc77f006b4e3db15ec9484641",
+      "opacity.25": "ac9c545450031c0d1c8c957b5ef36afb76c05b26",
+      "opacity.30": "f38e24dd3043b84d163865ad7e2b55cb6290c2f2",
+      "opacity.40": "c66fe48f19ed58566f26de0230ed4d5d5df8a179",
+      "opacity.50": "216521087edf2de0be82edd0fff2e6eb5d93ec8f",
+      "opacity.60": "cb74db3370678272b920455d343fcc9e1e8c7ae3",
+      "opacity.70": "0c5281859d072e016b455b76d15d6b36684ee9de",
+      "opacity.75": "1acf488a2dc3cf388b3fd83a51475ffd93ff722b",
+      "opacity.80": "f8ff40a5223786fdffc7ec5426446b2d7e260678",
+      "opacity.90": "a1ed97e4b4ef0c29e8a077f97653c1af8b379ed5",
+      "opacity.95": "8d69291312ba65a70dd2f44ac3675817442640ce",
+      "opacity.100": "ec4067c765f137d1f6bd9810cbff17ef39373c8d"
     }
   }
 ]
