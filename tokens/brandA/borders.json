@@ -177,11 +177,11 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{size.1}",
+          "value": "{size.0_5}",
           "type": "dimension"
         },
         "xl": {
-          "value": "{size.1}",
+          "value": "{size.0_5}",
           "type": "dimension"
         },
         "2xl": {
