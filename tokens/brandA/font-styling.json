@@ -168,16 +168,6 @@
       },
       "type": "typography"
     },
-    "base": {
-      "value": {
-        "fontFamily": "{fontFamily.primary}",
-        "fontWeight": "{fontWeight.medium}",
-        "fontSize": "{fontSize.base}",
-        "letterSpacing": "{letterSpace.tracking-normal}",
-        "lineHeight": "{lineHeight.6}"
-      },
-      "type": "typography"
-    },
     "small": {
       "value": {
         "fontFamily": "{fontFamily.primary}",
@@ -185,6 +175,16 @@
         "fontSize": "{fontSize.sm}",
         "letterSpacing": "{letterSpace.tracking-normal}",
         "lineHeight": "{lineHeight.5}"
+      },
+      "type": "typography"
+    },
+    "base": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.medium}",
+        "fontSize": "{fontSize.base}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
+        "lineHeight": "{lineHeight.6}"
       },
       "type": "typography"
     },
