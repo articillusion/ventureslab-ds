@@ -3,6 +3,7 @@
     "Core/primitives/colors",
     "Core/primitives/font-styling",
     "Core/primitives/size",
+    "Core/opacity",
     "brandA/colors",
     "brandA/borders",
     "brandA/font-styling",
