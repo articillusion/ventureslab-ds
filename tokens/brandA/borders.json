@@ -415,6 +415,18 @@
               "type": "dimension"
             }
           }
+        },
+        "container": {
+          "radius": {
+            "sm": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            }
+          }
         }
       }
     },
