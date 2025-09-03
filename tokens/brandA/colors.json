@@ -552,11 +552,11 @@
       "primary": {
         "background": {
           "dark": {
-            "value": "{brandColors.primary.100}",
+            "value": "{brandColors.primary.800}",
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.primary.800}",
+            "value": "{brandColors.primary.100}",
             "type": "color"
           }
         },
@@ -604,11 +604,11 @@
       "secondary": {
         "background": {
           "dark": {
-            "value": "{brandColors.secondary.100}",
+            "value": "{brandColors.secondary.800}",
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.secondary.800}",
+            "value": "{brandColors.secondary.100}",
             "type": "color"
           }
         },
@@ -624,31 +624,31 @@
         },
         "text": {
           "dark": {
-            "value": "{brandColors.primary.800}",
+            "value": "{brandColors.secondary.800}",
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.primary.100}",
+            "value": "{brandColors.secondary.100}",
             "type": "color"
           }
         },
         "icon": {
           "dark": {
-            "value": "{brandColors.primary.400}",
+            "value": "{brandColors.secondary.400}",
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.primary.300}",
+            "value": "{brandColors.secondary.300}",
             "type": "color"
           }
         },
         "dot": {
           "dark": {
-            "value": "{brandColors.primary.400}",
+            "value": "{brandColors.secondary.400}",
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.primary.400}",
+            "value": "{brandColors.secondary.400}",
             "type": "color"
           }
         }
