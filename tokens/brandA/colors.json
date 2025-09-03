@@ -1401,7 +1401,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.400}",
           "type": "color"
         }
       }
