@@ -653,7 +653,12 @@
       "atoms.badge-status.plain.icon.dark": "S:6f67c562ae6e221fa50c5ba09c55de81e5168025,",
       "atoms.badge-status.plain.icon.bright": "S:9dc7a68dbce1bc90c3c1c0fb4505abd36958f6c8,",
       "atoms.badge-status.plain.dot.dark": "S:8f53c6ec6e43cd8df68a3c6b7bc2c7728acce732,",
-      "atoms.badge-status.plain.dot.bright": "S:4a7fc4529f86345da24dd8364ca53eba31016ea1,"
+      "atoms.badge-status.plain.dot.bright": "S:4a7fc4529f86345da24dd8364ca53eba31016ea1,",
+      "molecules.avatar.text.default": "S:795cb80551b08c265661e9cca39bd4dbb3941e48,",
+      "molecules.avatar.text.hover": "S:929e4bfac9e16a40293b345956a50c05d169d64e,",
+      "molecules.avatar.subtitle.default": "S:61a3565678989afbca9d469201bb97c0ee33b352,",
+      "molecules.avatar.subtitle.hover": "S:a821b78f9c0c8865d282172cd5b94d85879b89ee,",
+      "button.tiny": "S:2202de0b2971b2310125abc5bf75ad95376d3c9f,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1339,6 +1344,10 @@
       "atoms.badge-status.plain.icon.bright": "d536fa258627d43f0b1407c2306234af79cdf8a6",
       "atoms.badge-status.plain.dot.dark": "26d52cb6943de90788da987847d3a954e745744d",
       "atoms.badge-status.plain.dot.bright": "944657ee48aa79818a3482f9431de65aeb680bbe",
+      "molecules.avatar.text.default": "83f999c039f5e3023bbba3aa1dc1246a7e20cf3d",
+      "molecules.avatar.text.hover": "6066c1af924043e6df4471674192f71af0dd7895",
+      "molecules.avatar.subtitle.default": "7caed287d1de47333f23a614e6c8c00e01531c86",
+      "molecules.avatar.subtitle.hover": "ec203699b83c7a38c9843c6400440ecaeef2efa9",
       "atoms.button.primary.border-size.xs": "dcfbb2e1bd37df22b7d2d94a715e6d0d9b70a9d0",
       "atoms.button.primary.border-size.sm": "3c6120f310c1d4025a24b79fcda0f757561b44ca",
       "atoms.button.primary.border-size.base": "8f5f1e4b3f58fb22a95a6d7ac53625ff661d6d73",
@@ -1446,6 +1455,8 @@
       "borderWidth.border_lg": "58d7d1b672786b1e8421b685011350146ec4e5ab",
       "borderWidth.border_xl": "1568097030f0565c4f8fcec3cffea0db264f7043",
       "borderWidth.border_2xl": "cee3cbaff79ba43c2351666aa12e30c4204afc6e",
+      "molecules.navigation.game-tabs.container.radius.sm": "7c5dd45d77626b99c4ee858411aa100251431352",
+      "molecules.navigation.game-tabs.container.radius.md": "e09be0b7751937ae06c381b93b74240245cdef16",
       "blur.background.xs": "fe5ffb25975ab30f52ab78ed10c5e77ded520bba",
       "blur.background.sm": "c8ee084a3cf088bcf7a25e6c4ac31caa1714dd84",
       "blur.background.md": "141fad86b03e1f4a8009e1df03b30fd3e81af362",
