@@ -596,7 +596,7 @@
             "type": "color"
           },
           "bright": {
-            "value": "{brandColors.primary.400}",
+            "value": "{brandColors.primary.700}",
             "type": "color"
           }
         }
