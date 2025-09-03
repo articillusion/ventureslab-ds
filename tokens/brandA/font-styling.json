@@ -271,6 +271,16 @@
         "lineHeight": "{lineHeight.auto}"
       },
       "type": "typography"
+    },
+    "tiny": {
+      "value": {
+        "fontFamily": "{fontFamily.primary}",
+        "fontWeight": "{fontWeight.semibold}",
+        "fontSize": "{fontSize.xs}",
+        "letterSpacing": "{letterSpace.tracking-lesstight}",
+        "lineHeight": "{lineHeight.auto}"
+      },
+      "type": "typography"
     }
   },
   "tabButtons": {

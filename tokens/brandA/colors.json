@@ -1447,6 +1447,28 @@
           "type": "color"
         }
       }
+    },
+    "avatar": {
+      "text": {
+        "default": {
+          "value": "{brandColors.neutral.50}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "subtitle": {
+        "default": {
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
     }
   }
 }
