@@ -582,7 +582,7 @@
         },
         "icon": {
           "dark": {
-            "value": "#000000",
+            "value": "{brandColors.primary.400}",
             "type": "color"
           },
           "bright": {
@@ -592,6 +592,28 @@
         },
         "dot": {
           "dark": {
+            "value": "{brandColors.primary.400}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.400}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "background": {
+          "dark": {
+            "value": "{brandColors.secondary.100}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.secondary.800}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "dark": {
             "value": "#000000",
             "type": "color"
           },
@@ -599,36 +621,34 @@
             "value": "#000000",
             "type": "color"
           }
-        }
-      },
-      "secondary": {
-        "background": {
-          "default": {
-            "value": "#000000",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "#000000",
-            "type": "color"
-          }
         },
         "text": {
-          "default": {
-            "value": "#000000",
+          "dark": {
+            "value": "{brandColors.primary.800}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.100}",
             "type": "color"
           }
         },
         "icon": {
-          "default": {
-            "value": "#000000",
+          "dark": {
+            "value": "{brandColors.primary.400}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.300}",
             "type": "color"
           }
         },
         "dot": {
-          "default": {
-            "value": "#000000",
+          "dark": {
+            "value": "{brandColors.primary.400}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.400}",
             "type": "color"
           }
         }
