@@ -551,31 +551,51 @@
     "badge-status": {
       "primary": {
         "background": {
-          "default": {
-            "value": "#000000",
+          "dark": {
+            "value": "{brandColors.primary.100}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.800}",
             "type": "color"
           }
         },
         "border": {
-          "default": {
+          "dark": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "bright": {
             "value": "#000000",
             "type": "color"
           }
         },
         "text": {
-          "default": {
-            "value": "#000000",
+          "dark": {
+            "value": "{brandColors.primary.800}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.100}",
             "type": "color"
           }
         },
         "icon": {
-          "default": {
+          "dark": {
             "value": "#000000",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{brandColors.primary.300}",
             "type": "color"
           }
         },
         "dot": {
-          "default": {
+          "dark": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "bright": {
             "value": "#000000",
             "type": "color"
           }
