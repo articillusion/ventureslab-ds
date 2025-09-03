@@ -6,7 +6,7 @@
         "y": "{size.px}",
         "blur": "{size.0}",
         "spread": "{size.0}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -18,7 +18,7 @@
         "y": "{size.px}",
         "blur": "{size.0_5}",
         "spread": "{size.0}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -30,7 +30,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -41,7 +41,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -63,7 +63,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -74,7 +74,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{primary.500}",
+        "color": "{brandColors.neutral.500}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -142,7 +142,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{primary.400}",
+        "color": "{brandColors.neutral.400}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -153,7 +153,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{secondary.400}",
+        "color": "{{brandColors.secondary.400}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -186,7 +186,7 @@
         "y": "{size.0}",
         "blur": "{size.0}",
         "spread": "{size.0_5}",
-        "color": "{color.White}",
+        "color": "{color.white}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
