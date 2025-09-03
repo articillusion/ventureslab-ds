@@ -1,15 +1,14 @@
 {
   "tokenSetOrder": [
+    "Core/opacity",
     "Core/primitives/colors",
     "Core/primitives/font-styling",
     "Core/primitives/size",
-    "Core/opacity",
-    "brandA/colors",
-    "brandA/borders",
-    "brandA/font-styling",
-    "brandA/box",
     "brandA/blur",
-    "brandA/opacity",
-    "brandA/core"
+    "brandA/borders",
+    "brandA/box",
+    "brandA/colors",
+    "brandA/font-styling",
+    "brandA/opacity"
   ]
 }
