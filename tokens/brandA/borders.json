@@ -407,11 +407,11 @@
           },
           "border-radius": {
             "sm": {
-              "value": "{size.1}",
+              "value": "{borderRadius.full}",
               "type": "dimension"
             },
             "md": {
-              "value": "{size.1_5}",
+              "value": "{borderRadius.full}",
               "type": "dimension"
             }
           }
