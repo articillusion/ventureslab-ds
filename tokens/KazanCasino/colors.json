@@ -1433,7 +1433,7 @@
     "game-tile": {
       "background": {
         "default": {
-          "value": "{brandColors.neutral.800}",
+          "value": "{brandColors.tertiary.600}",
           "type": "color"
         },
         "hover": {

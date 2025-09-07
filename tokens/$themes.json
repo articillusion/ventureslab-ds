@@ -2223,7 +2223,9 @@
       "atoms.button.secondary.icon.text.hover": "S:cc3fdaeb9f85ab3045199c4bd4520b2095b7669f,",
       "atoms.button.secondary.icon.text.focus": "S:372c8700abef1e356e02a9bde07d4e15e271c0a5,",
       "atoms.button.secondary.icon.text.disabled": "S:7d411bfdded5f7f27e04c974fc53a9917a532001,",
-      "atoms.button.secondary.icon.text.active": "S:f12ec5dbf0d5b3732cd6ea5b044ac2512c6e476c,"
+      "atoms.button.secondary.icon.text.active": "S:f12ec5dbf0d5b3732cd6ea5b044ac2512c6e476c,",
+      "molecules.navigation.sidebar.background.tertiary": "S:cad50050070c67516c122271d00f800cf61e078d,",
+      "molecules.navigation.sidebar.border.tertiary": "S:676f84c87edc0a5318095e0fb7aa8290375551f3,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -2648,6 +2650,7 @@
       "atoms.toogleSwitch.icon.focus": "649f8619052bb0778dcf427189b5519c5f71a6c1",
       "atoms.toogleSwitch.icon.disabled": "9d004d8ed9b3a99dedc96fc7ad862f960276ef16",
       "atoms.toogleSwitch.icon.active": "cda3596bdf8ca4d8065b6f679d99b2e4704e992c",
+      "atoms.bg.default": "c9a57cfd2bd2988ad51a5b26ab987dea2577e084",
       "atoms.bg.surface": "d7ff371a586798b32500395c5536e8cc03e164d8",
       "atoms.bg.subtle": "e694ef158d1d8cf71103c45848d92c6564180d83",
       "atoms.bg.primary": "81febb3b2c91f4199cd45ba7214ee793a828b935",
@@ -2672,10 +2675,12 @@
       "molecules.navigation.sidebar.background.default": "c3456a644b39ea9ffbfa93f6037b153ede540d52",
       "molecules.navigation.sidebar.background.primary": "077713aed019c4abd7ae11a79657a31eee688ac3",
       "molecules.navigation.sidebar.background.secondary": "c94d4c8e06eb5113cde18bcbf1a1de35c4df2d05",
+      "molecules.navigation.sidebar.background.tertiary": "7893501d7abcc20be526bc640672e95e49f20a16",
       "molecules.navigation.sidebar.background.neutral": "fe2727d86a37fce01f08d5910f9a5711ca2ab765",
       "molecules.navigation.sidebar.border.default": "bd674a7b2cdd898574c84b385b82dc8f89e22f87",
       "molecules.navigation.sidebar.border.primary": "c65cdc982d9d25634a14d84c669c1446f9cad93b",
       "molecules.navigation.sidebar.border.secondary": "cc600f9b12476d10eadfaa57a4effd8128c371d0",
+      "molecules.navigation.sidebar.border.tertiary": "4102b477f5c480537f8cebbe2897dc4a74fc3556",
       "molecules.navigation.sidebar.border.neutral": "26437feb063e8c3e1e753fcee1db0edcb6ece611",
       "molecules.navigation.sidebar.text.default": "cb8cfeba260267edfd1cb446c68e0dca0e6a9bdd",
       "molecules.navigation.sidebar.text.hover": "cda2ef01ba69cf29b3aa2c0a015ae98a4de13de2",
