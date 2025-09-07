@@ -1545,7 +1545,7 @@
     "game-container": {
       "background": {
         "default": {
-          "value": "{brandColors.primary.900}30",
+          "value": "{brandColors.primary.950}60",
           "type": "color"
         }
       },
