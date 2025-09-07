@@ -428,6 +428,64 @@
             }
           }
         }
+      },
+      "sidebar": {
+        "button": {
+          "border-size": {
+            "sm": {
+              "value": "{size.px}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{size.0_5}",
+              "type": "dimension"
+            }
+          },
+          "border-radius": {
+            "sm": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            }
+          }
+        },
+        "container": {
+          "radius": {
+            "sm": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            }
+          }
+        },
+        "category-container": {
+          "border-size": {
+            "sm": {
+              "value": "{size.px}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{size.0_5}",
+              "type": "dimension"
+            }
+          },
+          "border-radius": {
+            "sm": {
+              "value": "{borderRadius.xl}",
+              "type": "dimension"
+            },
+            "md": {
+              "value": "{borderRadius.full}",
+              "type": "dimension"
+            }
+          }
+        }
       }
     },
     "overlays": {
