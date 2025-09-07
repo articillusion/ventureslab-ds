@@ -1566,5 +1566,21 @@
       "transparency.95": "a8407069237e53974585e833dfed46df638ab8f9",
       "transparency.100": "128da141654d5c469146bd9a9ebdab59bd928fed"
     }
+  },
+  {
+    "id": "e0a9ef8e564cd8d0403664cbaadfdad5dcc38f5f",
+    "name": "KazanCasino",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/primitives/colors": "enabled",
+      "Core/primitives/font-styling": "enabled",
+      "Core/primitives/size": "enabled",
+      "KazanCasino/font-styling": "enabled",
+      "KazanCasino/blur": "enabled",
+      "KazanCasino/borders": "enabled",
+      "KazanCasino/box": "enabled",
+      "KazanCasino/colors": "enabled",
+      "KazanCasino/opacity": "enabled"
+    }
   }
 ]
