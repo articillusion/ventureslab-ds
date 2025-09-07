@@ -1,0 +1,50 @@
+{
+  "logo-contrast": {
+    "value": "https://i.ibb.co/KxXdqRnk/contrast.png",
+    "type": "asset"
+  },
+  "mark-contrast": {
+    "value": "https://i.ibb.co/CKprNGSK/mark-contrast.png",
+    "type": "asset"
+  },
+  "logo-gray": {
+    "value": "https://i.ibb.co/5XqQcNyK/gray.png",
+    "type": "asset"
+  },
+  "mark-gray": {
+    "value": "https://i.ibb.co/BHkRwMMT/mark-gray.png",
+    "type": "asset"
+  },
+  "logo-primary": {
+    "value": "https://i.ibb.co/8psfPC5/primary.png",
+    "type": "asset"
+  },
+  "mark-primary": {
+    "value": "https://i.ibb.co/G3dNb1D3/mark-primary.png",
+    "type": "asset"
+  },
+  "logo-secondary": {
+    "value": "https://i.ibb.co/8L0BkF2w/secondary.png",
+    "type": "asset"
+  },
+  "mark-secondary": {
+    "value": "https://i.ibb.co/Cs9VMPM1/mark-secondary.png",
+    "type": "asset"
+  },
+  "logo-width": {
+    "value": "143px",
+    "type": "sizing"
+  },
+  "logo-height": {
+    "value": "32px",
+    "type": "sizing"
+  },
+  "mark-width": {
+    "value": "36px",
+    "type": "sizing"
+  },
+  "mark-height": {
+    "value": "32px",
+    "type": "sizing"
+  }
+}
