@@ -1245,6 +1245,28 @@
           "type": "color"
         }
       }
+    },
+    "bg": {
+      "default": {
+        "value": "{brandColors.neutral.950}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{brandColors.neutral.900}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{brandColors.neutral.800}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{brandColors.primary.600}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brandColors.secondary.500}",
+        "type": "color"
+      }
     }
   },
   "molecules": {
