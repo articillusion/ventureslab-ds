@@ -1248,7 +1248,7 @@
     },
     "bg": {
       "default": {
-        "value": "{brandColors.neutral.950}",
+        "value": "linear-gradient(-120deg, {brandColors.secondary.700} 0%, {brandColors.neutral.800} 18%, {brandColors.neutral.900} 83%, {brandColors.primary.800} 100%)",
         "type": "color"
       },
       "surface": {
