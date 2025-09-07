@@ -1248,7 +1248,7 @@
     },
     "bg": {
       "default": {
-        "value": "linear-gradient(-120deg, {brandColors.primary.800} 0%, {brandColors.neutral.900} 17%, {brandColors.neutral.800} 82%, {brandColors.secondary.700} 100%)",
+        "value": "{brandColors.tertiary.800}",
         "type": "color"
       },
       "surface": {
@@ -1356,7 +1356,7 @@
       "sidebar": {
         "background": {
           "default": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.tertiary.600}",
             "type": "color"
           },
           "primary": {
@@ -1374,7 +1374,7 @@
         },
         "border": {
           "default": {
-            "value": "{brandColors.neutral.800}",
+            "value": "{brandColors.tertiary.600}",
             "type": "color"
           },
           "primary": {
