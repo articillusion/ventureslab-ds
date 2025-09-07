@@ -1433,7 +1433,7 @@
     "game-tile": {
       "background": {
         "default": {
-          "value": "{brandColors.tertiary.600}",
+          "value": "{brandColors.tertiary.500}",
           "type": "color"
         },
         "hover": {
@@ -1443,7 +1443,7 @@
       },
       "border": {
         "default": {
-          "value": "{brandColors.neutral.600}",
+          "value": "{brandColors.tertiary.500}",
           "type": "color"
         },
         "hover": {
