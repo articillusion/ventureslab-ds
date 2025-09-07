@@ -548,6 +548,36 @@
         }
       }
     },
+    "text-content": {
+      "primary": {
+        "value": "{brandColors.primary.600}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brandColors.secondary.500}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{brandColors.neutral.50}",
+        "type": "color"
+      },
+      "title": {
+        "value": "{brandColors.neutral.50}",
+        "type": "color"
+      },
+      "body": {
+        "value": "{brandColors.neutral.100}",
+        "type": "color"
+      },
+      "subtitle": {
+        "value": "{brandColors.neutral.200}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{brandColors.neutral.400}",
+        "type": "color"
+      }
+    },
     "badge-status": {
       "primary": {
         "background": {
