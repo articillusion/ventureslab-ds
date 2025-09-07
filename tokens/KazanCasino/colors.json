@@ -1443,7 +1443,7 @@
       },
       "border": {
         "default": {
-          "value": "{brandColors.neutral.800}",
+          "value": "{brandColors.neutral.600}",
           "type": "color"
         },
         "hover": {
