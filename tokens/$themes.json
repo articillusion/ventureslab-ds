@@ -718,7 +718,8 @@
       "brandA/font-styling": "enabled",
       "brandA/box": "enabled",
       "brandA/blur": "enabled",
-      "brandA/opacity": "enabled"
+      "brandA/opacity": "enabled",
+      "brandA/assets": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:40001469:29221",
     "$figmaModeId": "40001469:0",
@@ -2211,7 +2212,8 @@
       "KazanCasino/borders": "enabled",
       "KazanCasino/box": "enabled",
       "KazanCasino/colors": "enabled",
-      "KazanCasino/opacity": "enabled"
+      "KazanCasino/opacity": "enabled",
+      "KazanCasino/assets": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:40002532:35643",
     "$figmaModeId": "40002532:0",

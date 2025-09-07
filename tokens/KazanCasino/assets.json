@@ -1,42 +1,42 @@
 {
   "logo-contrast": {
-    "value": "https://i.ibb.co/KxXdqRnk/contrast.png",
+    "value": "https://i.ibb.co/B2Mj3VT7/l.png",
     "type": "asset"
   },
   "mark-contrast": {
-    "value": "https://i.ibb.co/CKprNGSK/mark-contrast.png",
+    "value": "https://i.ibb.co/tPv28q4r/mark-contrast.png",
     "type": "asset"
   },
   "logo-gray": {
-    "value": "https://i.ibb.co/5XqQcNyK/gray.png",
+    "value": "https://i.ibb.co/QFQBW88K/l-m.png",
     "type": "asset"
   },
   "mark-gray": {
-    "value": "https://i.ibb.co/BHkRwMMT/mark-gray.png",
+    "value": "https://i.ibb.co/1fSLtfxP/m-m.png",
     "type": "asset"
   },
   "logo-primary": {
-    "value": "https://i.ibb.co/8psfPC5/primary.png",
+    "value": "https://i.ibb.co/g5Y1kMB/l-p.png",
     "type": "asset"
   },
   "mark-primary": {
-    "value": "https://i.ibb.co/G3dNb1D3/mark-primary.png",
+    "value": "https://i.ibb.co/cKz1WhP5/mark.png",
     "type": "asset"
   },
   "logo-secondary": {
-    "value": "https://i.ibb.co/8L0BkF2w/secondary.png",
+    "value": "https://i.ibb.co/4BcDyRG/l-s.png",
     "type": "asset"
   },
   "mark-secondary": {
-    "value": "https://i.ibb.co/Cs9VMPM1/mark-secondary.png",
+    "value": "https://i.ibb.co/9HNhM15z/mark-sec.png",
     "type": "asset"
   },
   "logo-width": {
-    "value": "143px",
+    "value": "144px",
     "type": "sizing"
   },
   "logo-height": {
-    "value": "32px",
+    "value": "60px",
     "type": "sizing"
   },
   "mark-width": {
