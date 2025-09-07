@@ -214,8 +214,36 @@
       "value": "Calibri",
       "type": "fontFamilies"
     },
+    "trebuchet-ms": {
+      "value": "trebuchet-ms",
+      "type": "fontFamilies"
+    },
     "proxima-nova": {
-      "value": "Proxima-nova",
+      "value": "proxima-nova",
+      "type": "fontFamilies"
+    },
+    "roboto-condensed": {
+      "value": "roboto-condensed",
+      "type": "fontFamilies"
+    },
+    "roboto": {
+      "value": "roboto",
+      "type": "fontFamilies"
+    },
+    "futura": {
+      "value": "futura",
+      "type": "fontFamilies"
+    },
+    "noto-sans-jp": {
+      "value": "noto-sans-jp",
+      "type": "fontFamilies"
+    },
+    "montserrat": {
+      "value": "montserrat",
+      "type": "fontFamilies"
+    },
+    "poppins": {
+      "value": "montserrat",
       "type": "fontFamilies"
     }
   },
