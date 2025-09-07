@@ -1367,6 +1367,10 @@
             "value": "{brandColors.secondary.950}",
             "type": "color"
           },
+          "tertiary": {
+            "value": "{brandColors.tertiary.900}",
+            "type": "color"
+          },
           "neutral": {
             "value": "{brandColors.neutral.800}",
             "type": "color"
@@ -1383,6 +1387,10 @@
           },
           "secondary": {
             "value": "{brandColors.secondary.900}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{brandColors.tertiary.800}",
             "type": "color"
           },
           "neutral": {
