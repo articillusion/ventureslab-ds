@@ -1129,21 +1129,21 @@
       },
       "title": {
         "dark": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.50}",
           "type": "color"
         },
         "bright": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.900}",
           "type": "color"
         }
       },
       "sub-text": {
         "dark": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.400}",
           "type": "color"
         },
         "bright": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.500}",
           "type": "color"
         }
       }
