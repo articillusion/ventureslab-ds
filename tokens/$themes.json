@@ -2213,7 +2213,17 @@
       "ringGroup.ring-secondary": "S:1ed47e38c7f4f00bb4ff0753833e105f8b9b0b63,",
       "ringGroup.ring-tertiary": "S:dee40b4f92b3a17c12fd7cef25b784698e43f142,",
       "ringGroup.ring-soft": "S:a53dc2349e0a6f8537f47ab7d9414f67edeaf195,",
-      "ringGroup.ring-white": "S:931d029225a4a0f0806bff6e6408e7586c0b1e28,"
+      "ringGroup.ring-white": "S:931d029225a4a0f0806bff6e6408e7586c0b1e28,",
+      "atoms.button.secondary.text.text.default": "S:26e21bbb3c57cf7206280661d3d342999d97a3b3,",
+      "atoms.button.secondary.text.text.hover": "S:aab1d6c777e2ae02f6753aec1b22ac9fc84cfe9a,",
+      "atoms.button.secondary.text.text.focus": "S:0ce8f744def3160556195d901bff754413b36552,",
+      "atoms.button.secondary.text.text.disabled": "S:3c68f5794331e391f1e193b7bca724c05b7ebcfb,",
+      "atoms.button.secondary.text.text.active": "S:6a38c2102e30d5fa10aa600d1f694c36bb9d8110,",
+      "atoms.button.secondary.icon.text.default": "S:be0aca08ef080a17abab86de3afd1a0326ae91e1,",
+      "atoms.button.secondary.icon.text.hover": "S:cc3fdaeb9f85ab3045199c4bd4520b2095b7669f,",
+      "atoms.button.secondary.icon.text.focus": "S:372c8700abef1e356e02a9bde07d4e15e271c0a5,",
+      "atoms.button.secondary.icon.text.disabled": "S:7d411bfdded5f7f27e04c974fc53a9917a532001,",
+      "atoms.button.secondary.icon.text.active": "S:f12ec5dbf0d5b3732cd6ea5b044ac2512c6e476c,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
