@@ -12,15 +12,15 @@
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           }
         },
@@ -58,15 +58,15 @@
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           }
         },
@@ -104,15 +104,15 @@
             "type": "dimension"
           },
           "base": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           },
           "xl": {
-            "value": "{size.1}",
+            "value": "{size.0_5}",
             "type": "dimension"
           }
         },
