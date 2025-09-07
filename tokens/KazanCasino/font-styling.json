@@ -35,7 +35,7 @@
         "fontFamily": "{fontFamily.montserrat}",
         "fontWeight": "{fontWeight.extrabold}",
         "fontSize": "{fontSize.6xl}",
-        "letterSpacing": "{letterSpace.tracking-tightest}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
         "lineHeight": "{lineHeight.auto} "
       },
       "type": "typography"
@@ -57,7 +57,7 @@
         "fontFamily": "{fontFamily.montserrat}",
         "fontWeight": "{fontWeight.bold}",
         "fontSize": "{fontSize.4xl}",
-        "letterSpacing": "{letterSpace.tracking-tighter}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
         "lineHeight": "{lineHeight.auto} "
       },
       "type": "typography"
@@ -67,7 +67,7 @@
         "fontFamily": "{fontFamily.montserrat}",
         "fontWeight": "{fontWeight.bold}",
         "fontSize": "{fontSize.3xl}",
-        "letterSpacing": "{letterSpace.tracking-tighter}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
         "lineHeight": "{lineHeight.auto} "
       },
       "type": "typography"
