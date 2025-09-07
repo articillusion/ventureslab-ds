@@ -702,7 +702,12 @@
       "atoms.text-content.title": "S:5acbbc5ff5e636e5b533c5b44261d62a3a0b7884,",
       "atoms.text-content.body": "S:03c6eee88e039027053e37fffd50a05bed6681a1,",
       "atoms.text-content.subtitle": "S:b5a55a37955f726bfe636934b405f11d6b6de298,",
-      "atoms.text-content.muted": "S:2979db5726c96a652263d8adafdf9854ccf965fd,"
+      "atoms.text-content.muted": "S:2979db5726c96a652263d8adafdf9854ccf965fd,",
+      "atoms.bg.default": "S:38baf813d76b25cabfca25a79626e32a7cc2f963,",
+      "atoms.bg.surface": "S:38a35f83f909ff6a0485474c1b59baa6949e64b1,",
+      "atoms.bg.subtle": "S:fb26f7f3b47c9457ddcc2189c8f300f1ad923621,",
+      "atoms.bg.primary": "S:f92a242099d6acc5aedec3bd4212afc25a1fb9a2,",
+      "atoms.bg.secondary": "S:6777b44683f2211056c25e36485f63e9a9411e81,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -1541,6 +1546,11 @@
       "molecules.avatar.text.hover": "6066c1af924043e6df4471674192f71af0dd7895",
       "molecules.avatar.subtitle.default": "7caed287d1de47333f23a614e6c8c00e01531c86",
       "molecules.avatar.subtitle.hover": "ec203699b83c7a38c9843c6400440ecaeef2efa9",
+      "atoms.bg.default": "34163b1d99636009e15d9b4d9f2e97447d461996",
+      "atoms.bg.surface": "66767be056358998919ebe73332f14ddfb77cdd9",
+      "atoms.bg.subtle": "90614f973a84545a3546f6400996f6461bde3b96",
+      "atoms.bg.primary": "f6ee17c3e31e60441626f4f7fa2cbaf9747bf835",
+      "atoms.bg.secondary": "d82aa2b7161fab4111db1a93d81fc927e4561ba2",
       "transparency.0": "87e219695843936560255df52a5cd5a2c8627f1a",
       "transparency.5": "f3b95d9f4f89a53262c671e0fa4a4609e2ef3737",
       "transparency.10": "6420d1be122338ee59f636398e3e815859f30e2d",
