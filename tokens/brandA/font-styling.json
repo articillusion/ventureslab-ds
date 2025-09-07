@@ -334,5 +334,13 @@
       },
       "type": "typography"
     }
+  },
+  "proxima test": {
+    "value": {
+      "fontFamily": "{fontFamily.proxima-nova}",
+      "fontSize": "24px",
+      "fontWeight": "{fontWeight.bold}"
+    },
+    "type": "typography"
   }
 }

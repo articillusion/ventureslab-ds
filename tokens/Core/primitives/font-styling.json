@@ -213,6 +213,10 @@
     "tertiary": {
       "value": "Calibri",
       "type": "fontFamilies"
+    },
+    "proxima-nova": {
+      "value": "Proxima-nova",
+      "type": "fontFamilies"
     }
   },
   "style": {
