@@ -1499,7 +1499,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.700}",
           "type": "color"
         }
       },

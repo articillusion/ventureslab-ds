@@ -3019,6 +3019,7 @@
       "letterSpace.tracking-wide": "0b1791ec509f950f28f05e8fd6b11ac8020239ed",
       "letterSpace.tracking-wider": "fa0fd37f4e029f43eae1c14339470dee68efde09",
       "letterSpace.tracking-widest": "5adcf04493533f59b21611ae2b4dd2666b65c3b2",
+      "fontFamily.inter": "719eeaec43cde2ce9be659687a3e7b6c24da46fb",
       "fontFamily.trebuchet-ms": "bb11ab74010fddc86a0150ef126a4e283d0649c5",
       "fontFamily.proxima-nova": "608ddb5705dbb64dc702825a95e7e2f16c5954a0",
       "fontFamily.roboto-condensed": "5759090c58ce3ab178c770fb8d2c9ce58e480c19",
@@ -3093,8 +3094,7 @@
       "breakpoint.4xl": "e26fd28341680d62a063f8ce43dffaed6d8b5e5d",
       "breakpoint.5xl": "38eeb27865fcb349a685a72a6424d3ace1788d7a",
       "breakpoint.6xl": "424cb047efaca5827e9ac4eb30f952d5f43aaecd",
-      "breakpoint.7xl": "5e6f7dbcbb4b4849e8e97415d9475a17e74480ed",
-      "fontFamily.inter": "719eeaec43cde2ce9be659687a3e7b6c24da46fb"
+      "breakpoint.7xl": "5e6f7dbcbb4b4849e8e97415d9475a17e74480ed"
     }
   }
 ]
