@@ -696,11 +696,11 @@
         },
         "border": {
           "dark": {
-            "value": "{brandColors.neutral.700}",
+            "value": "{brandColors.neutral.800}",
             "type": "color"
           },
           "bright": {
-            "value": "#000000",
+            "value": "{brandColors.neutral.100}",
             "type": "color"
           }
         },
