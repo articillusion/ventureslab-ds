@@ -1500,9 +1500,6 @@
       "letterSpace.tracking-wide": "53951dd5c84cf6f4cb507c378e47a9ddea5e5bdb",
       "letterSpace.tracking-wider": "a8cbf1f165691c3ab4a2badb40c434433afb52f8",
       "letterSpace.tracking-widest": "a00e7763d4911142739a20a97a36717477172392",
-      "fontFamily.primary": "2fd8ea816efa500a002503ba814e163a44e4906d",
-      "fontFamily.secondary": "d12537c9af3abe2841e51ac54fe65f59df73e17f",
-      "fontFamily.tertiary": "d1e90f68be5812db4f385a65cd46c275259bf1e5",
       "fontFamily.trebuchet-ms": "8cabc2d304579bc8d1eeac9fbcd58c92baf83385",
       "fontFamily.proxima-nova": "d9f94def5d6a8595ba239769f9c342d0fea1a02e",
       "fontFamily.roboto-condensed": "a19979277ac4010486c1ed7c1fa621264b04fdef",
@@ -1577,7 +1574,8 @@
       "breakpoint.4xl": "a601e01522363c54f27d5d89da3e286764a434b7",
       "breakpoint.5xl": "08f7b29f3876e53ffe7b0f9fe5f6c62ae442f510",
       "breakpoint.6xl": "fa6f91d8de4052316b575cc3dc84200c11651357",
-      "breakpoint.7xl": "46255c3ee250f47e7e89889112b0ab077c4bf157"
+      "breakpoint.7xl": "46255c3ee250f47e7e89889112b0ab077c4bf157",
+      "fontFamily.inter": "2fd8ea816efa500a002503ba814e163a44e4906d"
     }
   },
   {
@@ -3021,9 +3019,6 @@
       "letterSpace.tracking-wide": "0b1791ec509f950f28f05e8fd6b11ac8020239ed",
       "letterSpace.tracking-wider": "fa0fd37f4e029f43eae1c14339470dee68efde09",
       "letterSpace.tracking-widest": "5adcf04493533f59b21611ae2b4dd2666b65c3b2",
-      "fontFamily.primary": "719eeaec43cde2ce9be659687a3e7b6c24da46fb",
-      "fontFamily.secondary": "9d545b5ed19f5c9bbac61e2ea021c5fbfbdd9dba",
-      "fontFamily.tertiary": "bbeb6b7ca384ca6f47b61d7858307c2a13f37e17",
       "fontFamily.trebuchet-ms": "bb11ab74010fddc86a0150ef126a4e283d0649c5",
       "fontFamily.proxima-nova": "608ddb5705dbb64dc702825a95e7e2f16c5954a0",
       "fontFamily.roboto-condensed": "5759090c58ce3ab178c770fb8d2c9ce58e480c19",
@@ -3098,7 +3093,8 @@
       "breakpoint.4xl": "e26fd28341680d62a063f8ce43dffaed6d8b5e5d",
       "breakpoint.5xl": "38eeb27865fcb349a685a72a6424d3ace1788d7a",
       "breakpoint.6xl": "424cb047efaca5827e9ac4eb30f952d5f43aaecd",
-      "breakpoint.7xl": "5e6f7dbcbb4b4849e8e97415d9475a17e74480ed"
+      "breakpoint.7xl": "5e6f7dbcbb4b4849e8e97415d9475a17e74480ed",
+      "fontFamily.inter": "719eeaec43cde2ce9be659687a3e7b6c24da46fb"
     }
   }
 ]

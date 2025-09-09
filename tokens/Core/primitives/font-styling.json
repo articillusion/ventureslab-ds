@@ -202,16 +202,8 @@
     }
   },
   "fontFamily": {
-    "primary": {
+    "inter": {
       "value": "Inter",
-      "type": "fontFamilies"
-    },
-    "secondary": {
-      "value": "Arial",
-      "type": "fontFamilies"
-    },
-    "tertiary": {
-      "value": "Calibri",
       "type": "fontFamilies"
     },
     "trebuchet-ms": {
