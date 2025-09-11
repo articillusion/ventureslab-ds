@@ -1577,6 +1577,48 @@
           "type": "color"
         }
       }
+    },
+    "banner-card": {
+      "background": {
+        "default": {
+          "value": "{brandColors.tertiary.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{brandColors.tertiary.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "title": {
+        "default": {
+          "value": "{brandColors.neutral.200}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "subtitle": {
+        "default": {
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
     }
   }
 }

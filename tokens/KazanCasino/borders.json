@@ -360,7 +360,7 @@
     }
   },
   "molecules": {
-    "game-card": {
+    "game-tile": {
       "lg": {
         "border-size": {
           "sm": {
@@ -392,7 +392,7 @@
         }
       }
     },
-    "provider-card": {
+    "provider-tile": {
       "border-size": {
         "sm": {
           "value": "{size.1}",
@@ -547,6 +547,36 @@
             "value": "{size.1_5}",
             "type": "dimension"
           }
+        }
+      }
+    },
+    "banner-card": {
+      "border-size": {
+        "sm": {
+          "value": "{borderWidth.border_0}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.1_5}",
+          "type": "dimension"
+        }
+      },
+      "border-radius": {
+        "sm": {
+          "value": "{size.4}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{size.4}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{size.6}",
+          "type": "dimension"
         }
       }
     }
