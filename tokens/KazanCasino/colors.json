@@ -1581,7 +1581,7 @@
     "banner-card": {
       "background": {
         "default": {
-          "value": "{brandColors.tertiary.500}",
+          "value": "{brandColors.tertiary.700}",
           "type": "color"
         },
         "hover": {
