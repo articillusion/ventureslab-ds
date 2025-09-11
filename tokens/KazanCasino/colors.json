@@ -1619,6 +1619,48 @@
           "type": "color"
         }
       }
+    },
+    "group-buttons": {
+      "background": {
+        "default": {
+          "value": "{brandColors.primary.900}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brandColors.primary.600}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{brandColors.primary.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brandColors.neutral.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brandColors.neutral.50}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brandColors.neutral.50}",
+          "type": "color"
+        }
+      }
     }
   }
 }
