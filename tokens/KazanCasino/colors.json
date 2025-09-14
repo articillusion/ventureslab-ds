@@ -234,15 +234,15 @@
         },
         "text": {
           "default": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "hover": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "focus": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "disabled": {
@@ -256,15 +256,15 @@
         },
         "icon": {
           "default": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "hover": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "focus": {
-            "value": "{brandColors.neutral.50}",
+            "value": "{brandColors.neutral.900}",
             "type": "color"
           },
           "disabled": {
@@ -324,15 +324,15 @@
         },
         "text": {
           "default": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "focus": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "disabled": {
@@ -346,15 +346,15 @@
         },
         "icon": {
           "default": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "focus": {
-            "value": "{brandColors.neutral.900}",
+            "value": "{brandColors.neutral.50}",
             "type": "color"
           },
           "disabled": {
