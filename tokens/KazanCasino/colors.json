@@ -1542,7 +1542,7 @@
         }
       }
     },
-    "game-container": {
+    "listing-container": {
       "background": {
         "default": {
           "value": "{brandColors.primary.950}60",
