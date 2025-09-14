@@ -2,52 +2,6 @@
   "brandColors": {
     "primary": {
       "50": {
-        "value": "#ECEEFC",
-        "type": "color"
-      },
-      "100": {
-        "value": "#C5C7F7",
-        "type": "color"
-      },
-      "200": {
-        "value": "#A9AFF3",
-        "type": "color"
-      },
-      "300": {
-        "value": "#818EED",
-        "type": "color"
-      },
-      "400": {
-        "value": "#6974E7",
-        "type": "color"
-      },
-      "500": {
-        "value": "#4351E5",
-        "type": "color"
-      },
-      "600": {
-        "value": "#3D4AE4",
-        "type": "color"
-      },
-      "700": {
-        "value": "#303AA3",
-        "type": "color"
-      },
-      "800": {
-        "value": "#252F7E",
-        "type": "color"
-      },
-      "900": {
-        "value": "#1C2260",
-        "type": "color"
-      },
-      "950": {
-        "value": "#121640",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "50": {
         "value": "#effcfc",
         "type": "color"
       },
@@ -89,6 +43,52 @@
       },
       "950": {
         "value": "#1B3A3B",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "50": {
+        "value": "#ECEEFC",
+        "type": "color"
+      },
+      "100": {
+        "value": "#C5C7F7",
+        "type": "color"
+      },
+      "200": {
+        "value": "#A9AFF3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#818EED",
+        "type": "color"
+      },
+      "400": {
+        "value": "#6974E7",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4351E5",
+        "type": "color"
+      },
+      "600": {
+        "value": "#3D4AE4",
+        "type": "color"
+      },
+      "700": {
+        "value": "#303AA3",
+        "type": "color"
+      },
+      "800": {
+        "value": "#252F7E",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1C2260",
+        "type": "color"
+      },
+      "950": {
+        "value": "#121640",
         "type": "color"
       }
     },
