@@ -1475,21 +1475,21 @@
     "provider-tile": {
       "background": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.tertiary.500}",
           "type": "color"
         },
         "hover": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.50}",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "#ffffff",
+          "value": "{brandColors.tertiary.500}",
           "type": "color"
         },
         "hover": {
-          "value": "#ffffff",
+          "value": "{brandColors.neutral.50}",
           "type": "color"
         }
       },
