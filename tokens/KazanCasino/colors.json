@@ -1634,6 +1634,16 @@
           "value": "{brandColors.neutral.50}",
           "type": "color"
         }
+      },
+      "demo-real": {
+        "default": {
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brandColors.primary.700}",
+          "type": "color"
+        }
       }
     }
   }
