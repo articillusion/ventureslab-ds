@@ -2314,7 +2314,9 @@
       "molecules.listing-container.border.default": "S:37229c47503c916124a51b0d981d21215e56dfb6,",
       "atoms.toogleSwitch.button-bg.default": "S:2e08c0e36ef7519c48061092f51dbc34e842178b,",
       "atoms.toogleSwitch.button-bg.active": "S:567f96ff045ebdb227b23c059711136b116caa18,",
-      "toggleSwitch.base": "S:53b185c79d8e0c41f165c103aedfdc982c05d611,"
+      "toggleSwitch.base": "S:53b185c79d8e0c41f165c103aedfdc982c05d611,",
+      "atoms.toogleSwitch.text.default": "S:eee9f9773193da5621a155ac7f5fbabe4a97a0e9,",
+      "atoms.toogleSwitch.text.active": "S:d5848af8a2d3f2605e024ea3316fb13291d72703,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -3268,7 +3270,9 @@
       "molecules.group-buttons.icon.default": "18e8b8a2660b6870c20e36cb58fab24f5cc6b176",
       "molecules.group-buttons.icon.hover": "f5b672283f39ae5c27b7068bb2bcda00dc7f856b",
       "atoms.toogleSwitch.button-bg.default": "8829444324274087de6b3a7b56905e272b53ffbc",
-      "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82"
+      "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82",
+      "atoms.toogleSwitch.text.default": "3333758bee2b6cb58821171a58e741d64edea323",
+      "atoms.toogleSwitch.text.active": "a5a33655c06d8ba303b7f402605f1aa4a3a02945"
     }
   }
 ]
