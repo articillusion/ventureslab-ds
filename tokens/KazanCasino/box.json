@@ -203,95 +203,10 @@
     }
   },
   "toggleSwitch": {
-    "box-shadow-2xs": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.px}",
-        "blur": "{size.0}",
-        "spread": "{size.0}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
+    "base": {
+      "value": "{boxShadow.box-shadow-md}",
       "type": "boxShadow",
       "description": "Ultra Subtle, almost no blur"
-    },
-    "box-shadow-xs": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.px}",
-        "blur": "{size.0_5}",
-        "spread": "{size.0}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Very small, slight blur"
-    },
-    "box-shadow-sm": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "box-shadow-md": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "box-shadow-lg": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{color.blue.300}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "box-shadow-xl": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "box-shadow-2xl": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{brandColors.neutral.500}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "box-shadow-none": {
-      "value": {
-        "x": "{size.0}",
-        "y": "{size.0}",
-        "blur": "{size.0}",
-        "spread": "{size.0_5}",
-        "color": "{color.blue.300}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
     }
   }
 }
