@@ -1181,67 +1181,41 @@
     "toogleSwitch": {
       "background": {
         "default": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.800}",
           "type": "color"
         },
         "active": {
-          "value": "#000000",
+          "value": "{brandColors.primary.500}",
           "type": "color"
         }
       },
       "border": {
         "default": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.400}",
           "type": "color"
         },
         "active": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.200}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.400}",
           "type": "color"
         },
         "active": {
-          "value": "#000000",
+          "value": "{brandColors.neutral.400}",
+          "type": "color"
+        }
+      },
+      "button-bg": {
+        "default": {
+          "value": "{color.white}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.white}",
           "type": "color"
         }
       }
