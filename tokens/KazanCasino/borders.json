@@ -301,29 +301,13 @@
     "toggleSwitch": {
       "border-size": {
         "sm": {
-          "value": "{size.1}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{size.1_5}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{size.2}",
+          "value": "{size.px}",
           "type": "dimension"
         }
       },
       "border-radius": {
         "sm": {
-          "value": "{size.1}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{size.1_5}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{size.2}",
+          "value": "{borderRadius.full}",
           "type": "dimension"
         }
       }

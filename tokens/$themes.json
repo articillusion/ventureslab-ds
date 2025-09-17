@@ -2311,7 +2311,9 @@
       "molecules.group-buttons.icon.default": "S:33f15ce89c9d6d68af721a1136d3e5cd15a0fb92,",
       "molecules.group-buttons.icon.hover": "S:aae07707ef206fc737a47fcb50243fbb9378d00a,",
       "molecules.listing-container.background.default": "S:5733e953d7eac298ce25116af6190b9d525ac89a,",
-      "molecules.listing-container.border.default": "S:37229c47503c916124a51b0d981d21215e56dfb6,"
+      "molecules.listing-container.border.default": "S:37229c47503c916124a51b0d981d21215e56dfb6,",
+      "atoms.toogleSwitch.button-bg.default": "S:2e08c0e36ef7519c48061092f51dbc34e842178b,",
+      "atoms.toogleSwitch.button-bg.active": "S:567f96ff045ebdb227b23c059711136b116caa18,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -2399,11 +2401,7 @@
       "atoms.radiobutton.border-radius.sm": "28710da3f4ffc9f644d9e92fb6d0a312c28e4785",
       "atoms.radiobutton.border-radius.md": "3b25e57ab3fe1c0555219b00042506af76e2d9d6",
       "atoms.toggleSwitch.border-size.sm": "fbba58e63573afea02201aaedd84eefe204c060d",
-      "atoms.toggleSwitch.border-size.md": "c55572b15915fa498c2b352686a96b390ba9f58f",
-      "atoms.toggleSwitch.border-size.lg": "4bdde6bffc2985b5efa38bd75988ed7d8744ed7f",
       "atoms.toggleSwitch.border-radius.sm": "b5b6e7ec2232cc0d9f7dc3d5a9cbf283cc663bea",
-      "atoms.toggleSwitch.border-radius.md": "fb7f5edfdd0dc6c90fbc7c68240b360133d01bf1",
-      "atoms.toggleSwitch.border-radius.lg": "b5fd4155f936c9f0853bef37f437f21c31a7d861",
       "atoms.tooltip.border-size.sm": "fc2b89e694c8f093544d264d6ebfdf9849a8462a",
       "atoms.tooltip.border-size.md": "037086bff13deb3befe69c9060b72b6b38f01790",
       "atoms.tooltip.border-size.lg": "cb715baef888e92b29cb56c88591789483e42368",
@@ -3267,7 +3265,9 @@
       "molecules.group-buttons.text.default": "30bb92d7029e8a5954f6d3698abe177f8f1a6c34",
       "molecules.group-buttons.text.hover": "6659527ed7daa68d9d91763ccf01fdb12ea197a8",
       "molecules.group-buttons.icon.default": "18e8b8a2660b6870c20e36cb58fab24f5cc6b176",
-      "molecules.group-buttons.icon.hover": "f5b672283f39ae5c27b7068bb2bcda00dc7f856b"
+      "molecules.group-buttons.icon.hover": "f5b672283f39ae5c27b7068bb2bcda00dc7f856b",
+      "atoms.toogleSwitch.button-bg.default": "8829444324274087de6b3a7b56905e272b53ffbc",
+      "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82"
     }
   }
 ]

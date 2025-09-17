@@ -1191,7 +1191,7 @@
       },
       "border": {
         "default": {
-          "value": "{brandColors.neutral.400}",
+          "value": "{brandColors.neutral.700}",
           "type": "color"
         },
         "active": {
