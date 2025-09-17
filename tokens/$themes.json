@@ -2313,7 +2313,8 @@
       "molecules.listing-container.background.default": "S:5733e953d7eac298ce25116af6190b9d525ac89a,",
       "molecules.listing-container.border.default": "S:37229c47503c916124a51b0d981d21215e56dfb6,",
       "atoms.toogleSwitch.button-bg.default": "S:2e08c0e36ef7519c48061092f51dbc34e842178b,",
-      "atoms.toogleSwitch.button-bg.active": "S:567f96ff045ebdb227b23c059711136b116caa18,"
+      "atoms.toogleSwitch.button-bg.active": "S:567f96ff045ebdb227b23c059711136b116caa18,",
+      "toggleSwitch.base": "S:53b185c79d8e0c41f165c103aedfdc982c05d611,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
