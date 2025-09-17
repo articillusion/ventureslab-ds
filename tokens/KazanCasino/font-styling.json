@@ -334,5 +334,17 @@
       },
       "type": "typography"
     }
+  },
+  "input": {
+    "placeholder": {
+      "value": {
+        "fontWeight": "{fontWeight.medium}",
+        "lineHeight": "{lineHeight.6}",
+        "fontFamily": "{fontFamily.montserrat}",
+        "letterSpacing": "{letterSpace.tracking-normal}",
+        "fontSize": "{fontSize.sm}"
+      },
+      "type": "typography"
+    }
   }
 }
