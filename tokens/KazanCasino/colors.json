@@ -1597,7 +1597,7 @@
     "group-buttons": {
       "background": {
         "default": {
-          "value": "{brandColors.primary.900}",
+          "value": "{brandColors.primary.950}",
           "type": "color"
         },
         "active": {
