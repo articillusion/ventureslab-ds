@@ -2316,7 +2316,11 @@
       "atoms.toogleSwitch.button-bg.active": "S:567f96ff045ebdb227b23c059711136b116caa18,",
       "toggleSwitch.base": "S:53b185c79d8e0c41f165c103aedfdc982c05d611,",
       "atoms.toogleSwitch.text.default": "S:eee9f9773193da5621a155ac7f5fbabe4a97a0e9,",
-      "atoms.toogleSwitch.text.active": "S:d5848af8a2d3f2605e024ea3316fb13291d72703,"
+      "atoms.toogleSwitch.text.active": "S:d5848af8a2d3f2605e024ea3316fb13291d72703,",
+      "atoms.skeleton.background.default": "S:949a40c7b5019faec4b2f78f61217cf70819bdb6,",
+      "atoms.skeleton.background.pulse-on": "S:69be6328490b326d48fac3113a8fa325460ce59a,",
+      "atoms.skeleton.img.default": "S:360674a69a1ea7be83a5771f71ee0d7c76d0669f,",
+      "input.placeholder": "S:cce1261c5d0e24339eabe766cd6e18d1d4f59886,"
     },
     "selectedTokenSets": {
       "Core/primitives/colors": "enabled",
@@ -3272,7 +3276,10 @@
       "atoms.toogleSwitch.button-bg.default": "8829444324274087de6b3a7b56905e272b53ffbc",
       "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82",
       "atoms.toogleSwitch.text.default": "3333758bee2b6cb58821171a58e741d64edea323",
-      "atoms.toogleSwitch.text.active": "a5a33655c06d8ba303b7f402605f1aa4a3a02945"
+      "atoms.toogleSwitch.text.active": "a5a33655c06d8ba303b7f402605f1aa4a3a02945",
+      "atoms.skeleton.background.default": "18220e1b1bd434b390a3ca5b7a1df8939f2e90be",
+      "atoms.skeleton.background.pulse-on": "1db5401d414993c1aa3232c5ce1b669b77ec5b55",
+      "atoms.skeleton.img.default": "568bf3c0d96c5a5d92673c3b3286fa3a3938a65b"
     }
   }
 ]
