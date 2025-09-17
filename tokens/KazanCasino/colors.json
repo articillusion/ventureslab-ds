@@ -1251,6 +1251,24 @@
         "value": "{brandColors.secondary.500}",
         "type": "color"
       }
+    },
+    "skeleton": {
+      "background": {
+        "default": {
+          "value": "{brandColors.neutral.700}",
+          "type": "color"
+        },
+        "pulse-on": {
+          "value": "{brandColors.neutral.700}{opacity.5}",
+          "type": "color"
+        }
+      },
+      "img": {
+        "default": {
+          "value": "{brandColors.neutral.800}",
+          "type": "color"
+        }
+      }
     }
   },
   "molecules": {

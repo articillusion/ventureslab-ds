@@ -29,7 +29,7 @@
       "type": "opacity"
     },
     "50": {
-      "value": "{opacity.5}",
+      "value": "{opacity.50}",
       "type": "opacity"
     },
     "60": {
