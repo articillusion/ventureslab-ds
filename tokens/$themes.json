@@ -3263,6 +3263,13 @@
       "molecules.provider-tile.border-radius.lg": "b7f5d7d0330c26838ad772a1a6c781d7d0d46572",
       "molecules.listing-container.border-size.sm": "482b7d67111c36bcceb6d11905320278604bfbc5",
       "molecules.listing-container.border-radius.sm": "8a06dd669fa0bcaf9368267e875f9a9d7cdb925a",
+      "atoms.toogleSwitch.button-bg.default": "8829444324274087de6b3a7b56905e272b53ffbc",
+      "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82",
+      "atoms.toogleSwitch.text.default": "3333758bee2b6cb58821171a58e741d64edea323",
+      "atoms.toogleSwitch.text.active": "a5a33655c06d8ba303b7f402605f1aa4a3a02945",
+      "atoms.skeleton.background.default": "18220e1b1bd434b390a3ca5b7a1df8939f2e90be",
+      "atoms.skeleton.background.pulse-on": "1db5401d414993c1aa3232c5ce1b669b77ec5b55",
+      "atoms.skeleton.img.default": "568bf3c0d96c5a5d92673c3b3286fa3a3938a65b",
       "molecules.listing-container.background.default": "15860c09569536f3082174d8304fd5c6b8317a33",
       "molecules.listing-container.border.default": "8074cf1a9d30f3d1cb89e32818c48114eb8e9395",
       "molecules.group-buttons.background.default": "3ed5a2a11fbb1d9aaf4e72214e4e0e077dfb7eb8",
@@ -3272,14 +3279,7 @@
       "molecules.group-buttons.text.default": "30bb92d7029e8a5954f6d3698abe177f8f1a6c34",
       "molecules.group-buttons.text.hover": "6659527ed7daa68d9d91763ccf01fdb12ea197a8",
       "molecules.group-buttons.icon.default": "18e8b8a2660b6870c20e36cb58fab24f5cc6b176",
-      "molecules.group-buttons.icon.hover": "f5b672283f39ae5c27b7068bb2bcda00dc7f856b",
-      "atoms.toogleSwitch.button-bg.default": "8829444324274087de6b3a7b56905e272b53ffbc",
-      "atoms.toogleSwitch.button-bg.active": "fadb858d1548d2df7c739d791246eb7a996b1f82",
-      "atoms.toogleSwitch.text.default": "3333758bee2b6cb58821171a58e741d64edea323",
-      "atoms.toogleSwitch.text.active": "a5a33655c06d8ba303b7f402605f1aa4a3a02945",
-      "atoms.skeleton.background.default": "18220e1b1bd434b390a3ca5b7a1df8939f2e90be",
-      "atoms.skeleton.background.pulse-on": "1db5401d414993c1aa3232c5ce1b669b77ec5b55",
-      "atoms.skeleton.img.default": "568bf3c0d96c5a5d92673c3b3286fa3a3938a65b"
+      "molecules.group-buttons.icon.hover": "f5b672283f39ae5c27b7068bb2bcda00dc7f856b"
     }
   }
 ]
